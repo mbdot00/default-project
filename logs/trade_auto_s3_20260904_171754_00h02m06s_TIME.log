@@ -1,0 +1,90 @@
+Script       : trade_auto
+Session      : 3
+Direction    : SELL
+Symbol       : JP225Cash
+Lot          : 0.1
+Session start: 2026-09-04 17:17:54
+Session end  : 2026-09-04 17:20:00
+Duration     : 126.5s
+Outcome      : TIME
+----------------------------------------------------------------------
+[17:17:54] === Session 3: choosing direction from M5 trend ===
+[17:17:54] Session 3 direction = SELL (EMA1 < EMA5). Equity start = 962.72
+[17:17:54] equity 962.72 (diff +0.00)
+[17:17:54] M1 20:17:00 open=65036.00 live=65033.00 candle=red ema1=65033.0 ema5=65054.8 BEAR -> session=SELL
+[17:17:54] SELL opened. ticket=950635329, price=65033.0
+[17:17:59] equity 962.71 (diff -0.01)
+[17:17:59] session=SELL but candle=green ema1=65041.0 ema5=65057.5 BEAR -> no trade this tick
+[17:18:04] equity 962.71 (diff -0.01)
+[17:18:04] M1 20:18:00 open=65043.00 live=65038.00 candle=red ema1=65038.0 ema5=65056.5 BEAR -> session=SELL
+[17:18:04] SELL opened. ticket=950635399, price=65038.0
+[17:18:09] equity 962.71 (diff -0.01)
+[17:18:09] SELL opened. ticket=950635439, price=65028.0
+[17:18:14] equity 962.69 (diff -0.03)
+[17:18:15] SELL opened. ticket=950635882, price=65028.0
+[17:18:20] equity 962.67 (diff -0.05)
+[17:18:20] SELL opened. ticket=950636006, price=65031.0
+[17:18:25] equity 962.79 (diff +0.07)
+[17:18:25] SELL opened. ticket=950636104, price=65011.0
+[17:18:30] equity 962.62 (diff -0.10)
+[17:18:30] SELL opened. ticket=950636238, price=65028.0
+[17:18:35] equity 962.56 (diff -0.16)
+[17:18:35] SELL opened. ticket=950636287, price=65038.0
+[17:18:40] equity 962.57 (diff -0.15)
+[17:18:41] SELL opened. ticket=950636351, price=65036.0
+[17:18:46] equity 962.57 (diff -0.15)
+[17:18:46] SELL opened. ticket=950636467, price=65033.0
+[17:18:51] equity 962.55 (diff -0.17)
+[17:18:51] SELL opened. ticket=950636536, price=65033.0
+[17:18:56] equity 962.56 (diff -0.16)
+[17:18:56] SELL opened. ticket=950636588, price=65031.0
+[17:19:01] equity 962.58 (diff -0.14)
+[17:19:01] M1 20:19:00 open=65028.00 live=65028.00 candle=red ema1=65028.0 ema5=65053.2 BEAR -> session=SELL
+[17:19:01] SELL opened. ticket=950636647, price=65031.0
+[17:19:06] equity 962.48 (diff -0.24)
+[17:19:06] session=SELL but candle=green ema1=65036.0 ema5=65055.8 BEAR -> no trade this tick
+[17:19:11] equity 962.48 (diff -0.24)
+[17:19:11] session=SELL but candle=green ema1=65036.0 ema5=65055.8 BEAR -> no trade this tick
+[17:19:16] equity 962.50 (diff -0.22)
+[17:19:16] session=SELL but candle=green ema1=65033.0 ema5=65054.8 BEAR -> no trade this tick
+[17:19:21] equity 962.45 (diff -0.27)
+[17:19:21] session=SELL but candle=green ema1=65043.0 ema5=65058.2 BEAR -> no trade this tick
+[17:19:26] equity 962.45 (diff -0.27)
+[17:19:26] session=SELL but candle=green ema1=65041.0 ema5=65057.5 BEAR -> no trade this tick
+[17:19:31] equity 962.48 (diff -0.24)
+[17:19:31] session=SELL but candle=green ema1=65036.0 ema5=65055.8 BEAR -> no trade this tick
+[17:19:36] equity 962.48 (diff -0.24)
+[17:19:36] session=SELL but candle=green ema1=65036.0 ema5=65055.8 BEAR -> no trade this tick
+[17:19:41] equity 962.48 (diff -0.24)
+[17:19:41] session=SELL but candle=green ema1=65036.0 ema5=65055.8 BEAR -> no trade this tick
+[17:19:46] equity 962.45 (diff -0.27)
+[17:19:46] session=SELL but candle=green ema1=65041.0 ema5=65057.5 BEAR -> no trade this tick
+[17:19:51] equity 962.32 (diff -0.40)
+[17:19:51] session=SELL but candle=green ema1=65048.0 ema5=65059.8 BEAR -> no trade this tick
+[17:19:56] equity 962.45 (diff -0.27)
+[17:19:56] TIME STOP: reached 2 minutes. Closing all positions.
+[17:19:57] closed 950635399 (sell) @ 65051.00
+[17:19:57] closed 950635405 (sell) @ 65051.00
+[17:19:57] closed 950635439 (sell) @ 65051.00
+[17:19:57] closed 950635461 (sell) @ 65051.00
+[17:19:57] closed 950635882 (sell) @ 65051.00
+[17:19:57] closed 950635930 (sell) @ 65051.00
+[17:19:58] closed 950636006 (sell) @ 65051.00
+[17:19:58] closed 950636021 (sell) @ 65049.00
+[17:19:58] closed 950636104 (sell) @ 65049.00
+[17:19:58] closed 950636126 (sell) @ 65049.00
+[17:19:58] closed 950636238 (sell) @ 65051.00
+[17:19:58] closed 950636256 (sell) @ 65051.00
+[17:19:59] closed 950636287 (sell) @ 65051.00
+[17:19:59] closed 950636296 (sell) @ 65051.00
+[17:19:59] closed 950636351 (sell) @ 65051.00
+[17:19:59] closed 950636353 (sell) @ 65051.00
+[17:19:59] closed 950636467 (sell) @ 65054.00
+[17:20:00] closed 950636496 (sell) @ 65051.00
+[17:20:00] closed 950636536 (sell) @ 65051.00
+[17:20:00] closed 950636541 (sell) @ 65051.00
+[17:20:00] closed 950636588 (sell) @ 65051.00
+[17:20:00] closed 950636594 (sell) @ 65051.00
+[17:20:00] closed 950636647 (sell) @ 65051.00
+[17:20:00] closed 23/23 positions
+[17:20:00] --- Session 3 finished: TIME ---

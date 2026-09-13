@@ -1,0 +1,94 @@
+Script       : btc_donchian_m5
+Symbol       : BTCUSD
+Lot          : 0.01
+Donchian     : 20 M5 bars
+Session      : 120 min
+Start equity : 935.70
+End equity   : 935.70
+Final positions: 0 (longs=0, shorts=0)
+Session start: 2026-09-05 19:30:33
+Session end  : 2026-09-05 21:30:38
+Duration     : 7205.4s
+Outcome      : TIME
+----------------------------------------------------------------------
+[19:30:33] MT5 initialized: (500, 6140, '21 Aug 2026')
+[19:30:33] Account 334072459 on XMGlobal-MT5 9, starting equity = 953.28 USD
+[19:30:33] Symbol BTCUSD, lot 0.01. Donchian(20) M5. Session 120 min.
+[19:30:33] BUY lower half, SELL upper half. Auto-close at 21:30:33
+[19:30:33] M5 close=79624.01 in UPPER half (mid=79587.65, lower=79476.25, upper=79699.05) -> SELL
+[19:30:33] SELL opened. ticket=951464288, price=79601.65
+[19:30:38] M5 close=79601.65 in LOWER half (mid=79610.90, lower=79566.85, upper=79654.95) -> BUY
+[19:30:38] BUY opened. ticket=951464290, price=79642.95
+[19:35:08] M5 close=79614.85 in UPPER half (mid=79610.90, lower=79566.85, upper=79654.95) -> SELL
+[19:35:08] SELL opened. ticket=951464527, price=79614.85
+[19:35:33] SNAPSHOT equity=952.07 P/L=-1.21 longs=1 shorts=2 total=3 remaining=114m59s
+[19:40:03] M5 close=79613.05 in UPPER half (mid=79610.90, lower=79566.85, upper=79654.95) -> SELL
+[19:40:04] SELL opened. ticket=951464593, price=79613.05
+[19:40:34] SNAPSHOT equity=951.69 P/L=-1.59 longs=1 shorts=3 total=4 remaining=109m59s
+[19:45:04] M5 close=79583.85 in LOWER half (mid=79610.90, lower=79566.85, upper=79654.95) -> BUY
+[19:45:04] BUY opened. ticket=951464697, price=79623.85
+[19:45:34] SNAPSHOT equity=951.87 P/L=-1.41 longs=2 shorts=3 total=5 remaining=104m58s
+[19:50:09] M5 close=79626.05 in UPPER half (mid=79610.90, lower=79566.85, upper=79654.95) -> SELL
+[19:50:09] SELL opened. ticket=951464831, price=79626.05
+[19:50:34] SNAPSHOT equity=951.05 P/L=-2.23 longs=2 shorts=4 total=6 remaining=99m58s
+[19:55:09] M5 close=79610.75 in LOWER half (mid=79615.75, lower=79566.85, upper=79664.65) -> BUY
+[19:55:09] BUY opened. ticket=951465023, price=79650.75
+[19:55:34] SNAPSHOT equity=950.91 P/L=-2.37 longs=3 shorts=4 total=7 remaining=94m58s
+[20:00:09] M5 close=79588.95 in LOWER half (mid=79615.75, lower=79566.85, upper=79664.65) -> BUY
+[20:00:09] BUY opened. ticket=951465120, price=79628.95
+[20:00:34] SNAPSHOT equity=950.77 P/L=-2.51 longs=4 shorts=4 total=8 remaining=89m58s
+[20:05:05] M5 close=79632.65 in UPPER half (mid=79615.75, lower=79566.85, upper=79664.65) -> SELL
+[20:05:05] SELL opened. ticket=951465221, price=79632.65
+[20:05:35] SNAPSHOT equity=950.37 P/L=-2.91 longs=4 shorts=5 total=9 remaining=84m58s
+[20:10:05] M5 close=79654.05 in UPPER half (mid=79615.75, lower=79566.85, upper=79664.65) -> SELL
+[20:10:05] SELL opened. ticket=951465335, price=79645.35
+[20:10:35] SNAPSHOT equity=949.84 P/L=-3.44 longs=4 shorts=6 total=10 remaining=79m57s
+[20:15:10] M5 close=79640.25 in UPPER half (mid=79615.75, lower=79566.85, upper=79664.65) -> SELL
+[20:15:10] SELL opened. ticket=951465426, price=79640.25
+[20:15:35] SNAPSHOT equity=949.53 P/L=-3.75 longs=4 shorts=7 total=11 remaining=74m57s
+[20:20:05] M5 close=79634.65 in UPPER half (mid=79615.75, lower=79566.85, upper=79664.65) -> SELL
+[20:20:05] SELL opened. ticket=951465623, price=79634.65
+[20:20:35] SNAPSHOT equity=949.32 P/L=-3.96 longs=4 shorts=8 total=12 remaining=69m57s
+[20:25:05] M5 close=79653.55 in UPPER half (mid=79615.75, lower=79566.85, upper=79664.65) -> SELL
+[20:25:06] SELL opened. ticket=951465715, price=79653.55
+[20:25:36] SNAPSHOT equity=947.96 P/L=-5.32 longs=4 shorts=9 total=13 remaining=64m57s
+[20:30:06] M5 close=79634.45 in UPPER half (mid=79622.85, lower=79581.05, upper=79664.65) -> SELL
+[20:30:06] SELL opened. ticket=951465881, price=79634.45
+[20:30:36] SNAPSHOT equity=950.99 P/L=-2.29 longs=4 shorts=10 total=14 remaining=59m56s
+[20:35:06] M5 close=79660.45 in UPPER half (mid=79623.30, lower=79581.05, upper=79665.55) -> SELL
+[20:35:06] SELL opened. ticket=951466045, price=79660.45
+[20:35:36] SNAPSHOT equity=946.60 P/L=-6.68 longs=4 shorts=11 total=15 remaining=54m56s
+[20:40:06] M5 close=79692.55 in UPPER half (mid=79636.80, lower=79581.05, upper=79692.55) -> SELL
+[20:40:06] SELL opened. ticket=951466479, price=79692.55
+[20:40:36] SNAPSHOT equity=944.11 P/L=-9.17 longs=4 shorts=12 total=16 remaining=49m56s
+[20:45:06] M5 close=79706.15 in UPPER half (mid=79668.12, lower=79581.05, upper=79755.20) -> SELL
+[20:45:07] SELL opened. ticket=951467262, price=79706.15
+[20:45:37] SNAPSHOT equity=944.20 P/L=-9.08 longs=4 shorts=13 total=17 remaining=44m56s
+[20:50:07] M5 close=79711.95 in UPPER half (mid=79668.12, lower=79581.05, upper=79755.20) -> SELL
+[20:50:07] SELL opened. ticket=951467771, price=79711.95
+[20:50:37] SNAPSHOT equity=942.94 P/L=-10.34 longs=4 shorts=14 total=18 remaining=39m55s
+[20:55:07] M5 close=79719.55 in UPPER half (mid=79668.12, lower=79581.05, upper=79755.20) -> SELL
+[20:55:07] SELL opened. ticket=951468049, price=79719.55
+[20:55:37] SNAPSHOT equity=938.84 P/L=-14.44 longs=4 shorts=15 total=19 remaining=34m55s
+[21:00:07] M5 close=79687.25 in UPPER half (mid=79668.12, lower=79581.05, upper=79755.20) -> SELL
+[21:00:07] SELL opened. ticket=951468312, price=79691.85
+[21:00:37] SNAPSHOT equity=943.19 P/L=-10.09 longs=4 shorts=16 total=20 remaining=29m55s
+[21:05:02] M5 close=79683.75 in UPPER half (mid=79668.12, lower=79581.05, upper=79755.20) -> SELL
+[21:05:03] SELL opened. ticket=951468680, price=79685.75
+[21:05:38] SNAPSHOT equity=942.88 P/L=-10.40 longs=4 shorts=17 total=21 remaining=24m55s
+[21:10:03] M5 close=79658.85 in LOWER half (mid=79668.12, lower=79581.05, upper=79755.20) -> BUY
+[21:10:03] BUY opened. ticket=951468868, price=79695.55
+[21:10:38] SNAPSHOT equity=947.41 P/L=-5.87 longs=5 shorts=17 total=22 remaining=19m55s
+[21:15:03] M5 close=79698.75 in UPPER half (mid=79668.12, lower=79581.05, upper=79755.20) -> SELL
+[21:15:03] SELL opened. ticket=951469285, price=79699.05
+[21:15:38] SNAPSHOT equity=941.41 P/L=-11.87 longs=5 shorts=18 total=23 remaining=14m54s
+[21:20:03] M5 close=79672.15 in UPPER half (mid=79668.12, lower=79581.05, upper=79755.20) -> SELL
+[21:20:03] SELL opened. ticket=951469756, price=79673.85
+[21:20:38] SNAPSHOT equity=943.67 P/L=-9.61 longs=5 shorts=19 total=24 remaining=09m54s
+[21:25:03] M5 close=79738.95 in UPPER half (mid=79668.12, lower=79581.05, upper=79755.20) -> SELL
+[21:25:04] SELL opened. ticket=951469962, price=79732.35
+[21:25:39] SNAPSHOT equity=935.96 P/L=-17.32 longs=5 shorts=20 total=25 remaining=04m54s
+[21:30:04] M5 close=79729.75 in UPPER half (mid=79668.12, lower=79581.05, upper=79755.20) -> SELL
+[21:30:04] SELL opened. ticket=951470158, price=79729.75
+[21:30:34] Session time (120 min) reached. Closing all positions.
+[21:30:38] closed 26 position(s)

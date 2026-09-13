@@ -1,0 +1,25 @@
+Script       : trade_buy_red
+Symbol       : JP225Cash
+Lot          : 0.1
+Session start: 2026-09-02 17:14:24
+Session end  : 2026-09-02 17:16:57
+Duration     : 153.1s
+Outcome      : TIME
+----------------------------------------------------------------------
+[17:14:24] MT5 initialized: (500, 6140, '21 Aug 2026')
+[17:14:24] Account 334072459 on XMGlobal-MT5 9, equity start = 991.38 USD
+[17:14:24] Trading JP225Cash @ 64028.00/64036.00, lot 0.1
+[17:14:24] Running (buy on red M1 candles at :57, stop if equity <= 990.38 or >= 996.38 from start).
+[17:14:24] equity 991.38 (diff +0.00)
+[17:14:57] equity 991.38 (diff +0.00)
+[17:14:57] M1 20:14:00 open=64048.00 live=63963.00 bid=63963.00 ask=63971.00 candle=red -> open BUY
+[17:14:57] BUY opened. ticket=948085748, price=63969.0
+[17:15:57] equity 991.37 (diff +-0.01)
+[17:15:57] M1 20:15:00 open=63958.00 live=63946.00 bid=63946.00 ask=63954.00 candle=red -> open BUY
+[17:15:57] BUY opened. ticket=948087062, price=63954.0
+[17:16:57] equity 991.35 (diff +-0.03)
+[17:16:57] TIME STOP: reached 2 minutes. Closing all positions and exiting.
+[17:16:57] closed 948085748 (buy) @ 63943.00
+[17:16:57] closed 948087062 (buy) @ 63943.00
+[17:16:57] closed 2/2 positions
+[17:16:57] Stopped.

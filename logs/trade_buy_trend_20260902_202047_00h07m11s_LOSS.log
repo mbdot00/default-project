@@ -1,0 +1,223 @@
+Script       : trade_buy_trend
+Symbol       : JP225Cash
+Lot          : 0.1
+Session start: 2026-09-02 20:20:47
+Session end  : 2026-09-02 20:27:58
+Duration     : 431.2s
+Outcome      : LOSS
+----------------------------------------------------------------------
+[20:20:47] MT5 initialized: (500, 6140, '21 Aug 2026')
+[20:20:47] Account 334072459 on XMGlobal-MT5 9, equity start = 991.33 USD
+[20:20:47] Trading JP225Cash @ 64261.00/64269.00, lot 0.1
+[20:20:47] Running (trend-follow BUY: M5 EMA7>EMA21 and M1 candle green, every 5s, stop if equity <= 990.33 or >= 996.33 from start).
+[20:20:47] equity 991.33 (diff +0.00)
+[20:20:47] M1 23:20:00 open=64168.00 live=64261.00 candle=green ema7=64174.7 ema21=64064.6 BULL -> follow BUY
+[20:20:47] BUY opened. ticket=948297492, price=64264.0
+[20:20:52] equity 991.34 (diff +0.01)
+[20:20:52] BUY opened. ticket=948298253, price=64284.0
+[20:20:57] equity 991.37 (diff +0.04)
+[20:20:58] BUY opened. ticket=948298818, price=64304.0
+[20:21:03] equity 991.35 (diff +0.02)
+[20:21:03] M1 23:21:00 open=64298.00 live=64291.00 candle=red ema7=64182.2 ema21=64067.3 BULL -> hold
+[20:21:03] candle is red -> no BUY (red, trend down)
+[20:21:08] equity 991.39 (diff +0.06)
+[20:21:08] BUY opened. ticket=948300108, price=64319.0
+[20:21:13] equity 991.36 (diff +0.03)
+[20:21:13] BUY opened. ticket=948300354, price=64306.0
+[20:21:18] equity 991.28 (diff +-0.05)
+[20:21:18] candle is red -> no BUY (red, trend down)
+[20:21:23] equity 991.36 (diff +0.03)
+[20:21:23] BUY opened. ticket=948300938, price=64309.0
+[20:21:28] equity 991.31 (diff +-0.02)
+[20:21:28] candle is red -> no BUY (red, trend down)
+[20:21:33] equity 991.32 (diff +-0.01)
+[20:21:33] candle is red -> no BUY (red, trend down)
+[20:21:38] equity 991.26 (diff +-0.07)
+[20:21:38] candle is red -> no BUY (red, trend down)
+[20:21:43] equity 991.26 (diff +-0.07)
+[20:21:43] candle is red -> no BUY (red, trend down)
+[20:21:48] equity 991.31 (diff +-0.02)
+[20:21:48] candle is red -> no BUY (red, trend down)
+[20:21:53] equity 991.24 (diff +-0.09)
+[20:21:53] candle is red -> no BUY (red, trend down)
+[20:21:58] equity 991.20 (diff +-0.13)
+[20:21:58] candle is red -> no BUY (red, trend down)
+[20:22:03] equity 991.17 (diff +-0.16)
+[20:22:03] M1 23:22:00 open=64261.00 live=64258.00 candle=red ema7=64174.0 ema21=64064.3 BULL -> hold
+[20:22:03] candle is red -> no BUY (red, trend down)
+[20:22:08] equity 991.16 (diff +-0.17)
+[20:22:08] candle is red -> no BUY (red, trend down)
+[20:22:13] equity 991.17 (diff +-0.16)
+[20:22:13] candle is red -> no BUY (red, trend down)
+[20:22:18] equity 991.20 (diff +-0.13)
+[20:22:18] BUY opened. ticket=948303351, price=64276.0
+[20:22:23] equity 991.15 (diff +-0.18)
+[20:22:23] candle is red -> no BUY (red, trend down)
+[20:22:28] equity 991.16 (diff +-0.17)
+[20:22:28] candle is red -> no BUY (red, trend down)
+[20:22:33] equity 991.19 (diff +-0.14)
+[20:22:34] BUY opened. ticket=948303839, price=64274.0
+[20:22:39] equity 991.15 (diff +-0.18)
+[20:22:39] candle is red -> no BUY (red, trend down)
+[20:22:44] equity 991.09 (diff +-0.24)
+[20:22:44] candle is red -> no BUY (red, trend down)
+[20:22:49] equity 991.08 (diff +-0.25)
+[20:22:49] candle is red -> no BUY (red, trend down)
+[20:22:54] equity 991.07 (diff +-0.26)
+[20:22:54] candle is red -> no BUY (red, trend down)
+[20:22:59] equity 991.03 (diff +-0.30)
+[20:22:59] candle is red -> no BUY (red, trend down)
+[20:23:04] equity 991.15 (diff +-0.18)
+[20:23:04] M1 23:23:00 open=64236.00 live=64258.00 candle=green ema7=64174.0 ema21=64064.3 BULL -> follow BUY
+[20:23:04] BUY opened. ticket=948304915, price=64261.0
+[20:23:09] equity 991.04 (diff +-0.29)
+[20:23:09] BUY opened. ticket=948305103, price=64244.0
+[20:23:14] equity 990.89 (diff +-0.44)
+[20:23:14] candle is red -> no BUY (red, trend down)
+[20:23:19] equity 990.82 (diff +-0.51)
+[20:23:19] candle is red -> no BUY (red, trend down)
+[20:23:24] equity 990.80 (diff +-0.53)
+[20:23:24] candle is red -> no BUY (red, trend down)
+[20:23:29] equity 990.77 (diff +-0.56)
+[20:23:29] candle is red -> no BUY (red, trend down)
+[20:23:34] equity 990.84 (diff +-0.49)
+[20:23:34] candle is red -> no BUY (red, trend down)
+[20:23:39] equity 990.89 (diff +-0.44)
+[20:23:39] candle is red -> no BUY (red, trend down)
+[20:23:44] equity 990.94 (diff +-0.39)
+[20:23:44] candle is red -> no BUY (red, trend down)
+[20:23:49] equity 990.89 (diff +-0.44)
+[20:23:49] candle is red -> no BUY (red, trend down)
+[20:23:54] equity 990.82 (diff +-0.51)
+[20:23:54] candle is red -> no BUY (red, trend down)
+[20:23:59] equity 990.85 (diff +-0.48)
+[20:23:59] M1 23:24:00 open=64206.00 live=64208.00 candle=green ema7=64161.5 ema21=64059.8 BULL -> follow BUY
+[20:23:59] BUY opened. ticket=948306712, price=64216.0
+[20:24:04] equity 990.93 (diff +-0.40)
+[20:24:04] BUY opened. ticket=948306824, price=64229.0
+[20:24:09] equity 990.94 (diff +-0.39)
+[20:24:09] BUY opened. ticket=948306893, price=64231.0
+[20:24:14] equity 990.95 (diff +-0.38)
+[20:24:15] BUY opened. ticket=948306967, price=64234.0
+[20:24:20] equity 990.86 (diff +-0.47)
+[20:24:20] BUY opened. ticket=948307042, price=64226.0
+[20:24:25] equity 990.85 (diff +-0.48)
+[20:24:25] BUY opened. ticket=948307140, price=64226.0
+[20:24:30] equity 990.96 (diff +-0.37)
+[20:24:30] BUY opened. ticket=948307288, price=64236.0
+[20:24:35] equity 990.95 (diff +-0.38)
+[20:24:35] BUY opened. ticket=948307377, price=64236.0
+[20:24:40] equity 991.00 (diff +-0.33)
+[20:24:41] BUY opened. ticket=948307599, price=64239.0
+[20:24:46] equity 991.02 (diff +-0.31)
+[20:24:46] BUY opened. ticket=948307969, price=64241.0
+[20:24:51] equity 991.26 (diff +-0.07)
+[20:24:51] BUY opened. ticket=948308124, price=64259.0
+[20:24:56] equity 991.18 (diff +-0.15)
+[20:24:56] BUY opened. ticket=948308267, price=64254.0
+[20:25:01] equity 991.17 (diff +-0.16)
+[20:25:01] M1 23:25:00 open=64243.00 live=64246.00 candle=green ema7=64189.7 ema21=64078.0 BULL -> follow BUY
+[20:25:01] BUY opened. ticket=948308496, price=64254.0
+[20:25:06] equity 991.27 (diff +-0.06)
+[20:25:06] BUY opened. ticket=948308632, price=64261.0
+[20:25:11] equity 991.49 (diff +0.16)
+[20:25:12] BUY opened. ticket=948308741, price=64274.0
+[20:25:17] equity 991.48 (diff +0.15)
+[20:25:17] BUY opened. ticket=948308828, price=64276.0
+[20:25:22] equity 991.47 (diff +0.14)
+[20:25:22] BUY opened. ticket=948309113, price=64274.0
+[20:25:27] equity 991.46 (diff +0.13)
+[20:25:27] BUY opened. ticket=948309346, price=64274.0
+[20:25:32] equity 991.28 (diff +-0.05)
+[20:25:32] BUY opened. ticket=948309464, price=64266.0
+[20:25:37] equity 991.27 (diff +-0.06)
+[20:25:37] BUY opened. ticket=948309807, price=64266.0
+[20:25:43] equity 991.05 (diff +-0.28)
+[20:25:43] BUY opened. ticket=948310234, price=64256.0
+[20:25:48] equity 991.01 (diff +-0.32)
+[20:25:48] candle is red -> no BUY (red, trend down)
+[20:25:53] equity 990.97 (diff +-0.36)
+[20:25:53] candle is red -> no BUY (red, trend down)
+[20:25:58] equity 990.87 (diff +-0.46)
+[20:25:58] candle is red -> no BUY (red, trend down)
+[20:26:03] equity 990.87 (diff +-0.46)
+[20:26:03] M1 23:26:00 open=64241.00 live=64238.00 candle=red ema7=64187.7 ema21=64077.3 BULL -> hold
+[20:26:03] candle is red -> no BUY (red, trend down)
+[20:26:08] equity 990.97 (diff +-0.36)
+[20:26:08] candle is red -> no BUY (red, trend down)
+[20:26:13] equity 990.87 (diff +-0.46)
+[20:26:13] candle is red -> no BUY (red, trend down)
+[20:26:18] equity 990.87 (diff +-0.46)
+[20:26:18] candle is red -> no BUY (red, trend down)
+[20:26:23] equity 990.97 (diff +-0.36)
+[20:26:23] candle is red -> no BUY (red, trend down)
+[20:26:28] equity 990.87 (diff +-0.46)
+[20:26:28] candle is red -> no BUY (red, trend down)
+[20:26:33] equity 990.84 (diff +-0.49)
+[20:26:33] candle is red -> no BUY (red, trend down)
+[20:26:38] equity 990.72 (diff +-0.61)
+[20:26:38] candle is red -> no BUY (red, trend down)
+[20:26:43] equity 990.72 (diff +-0.61)
+[20:26:43] candle is red -> no BUY (red, trend down)
+[20:26:48] equity 990.64 (diff +-0.69)
+[20:26:48] candle is red -> no BUY (red, trend down)
+[20:26:53] equity 990.61 (diff +-0.72)
+[20:26:53] candle is red -> no BUY (red, trend down)
+[20:26:58] equity 990.64 (diff +-0.69)
+[20:26:58] candle is red -> no BUY (red, trend down)
+[20:27:03] equity 990.64 (diff +-0.69)
+[20:27:03] candle is red -> no BUY (red, trend down)
+[20:27:08] equity 990.61 (diff +-0.72)
+[20:27:08] M1 23:27:00 open=64233.00 live=64226.00 candle=red ema7=64184.7 ema21=64076.2 BULL -> hold
+[20:27:08] candle is red -> no BUY (red, trend down)
+[20:27:13] equity 990.61 (diff +-0.72)
+[20:27:13] candle is red -> no BUY (red, trend down)
+[20:27:18] equity 990.58 (diff +-0.75)
+[20:27:18] candle is red -> no BUY (red, trend down)
+[20:27:23] equity 990.78 (diff +-0.55)
+[20:27:23] candle is red -> no BUY (red, trend down)
+[20:27:28] equity 990.64 (diff +-0.69)
+[20:27:28] candle is red -> no BUY (red, trend down)
+[20:27:33] equity 990.64 (diff +-0.69)
+[20:27:33] candle is red -> no BUY (red, trend down)
+[20:27:38] equity 990.58 (diff +-0.75)
+[20:27:38] candle is red -> no BUY (red, trend down)
+[20:27:43] equity 990.52 (diff +-0.81)
+[20:27:43] candle is red -> no BUY (red, trend down)
+[20:27:48] equity 990.42 (diff +-0.91)
+[20:27:48] candle is red -> no BUY (red, trend down)
+[20:27:53] equity 990.31 (diff +-1.02)
+[20:27:53] STOP: equity diff -1.02 <= -1.00. Closing all positions and exiting.
+[20:27:53] closed 948297492 (buy) @ 64208.00
+[20:27:53] closed 948298253 (buy) @ 64208.00
+[20:27:53] closed 948298818 (buy) @ 64208.00
+[20:27:53] closed 948300108 (buy) @ 64208.00
+[20:27:54] closed 948300354 (buy) @ 64208.00
+[20:27:54] closed 948300938 (buy) @ 64208.00
+[20:27:54] closed 948303351 (buy) @ 64211.00
+[20:27:54] closed 948303839 (buy) @ 64211.00
+[20:27:54] closed 948304915 (buy) @ 64211.00
+[20:27:55] closed 948305103 (buy) @ 64211.00
+[20:27:55] closed 948306712 (buy) @ 64211.00
+[20:27:55] closed 948306824 (buy) @ 64211.00
+[20:27:55] closed 948306893 (buy) @ 64211.00
+[20:27:55] closed 948306967 (buy) @ 64211.00
+[20:27:55] closed 948307042 (buy) @ 64206.00
+[20:27:56] closed 948307140 (buy) @ 64206.00
+[20:27:56] closed 948307288 (buy) @ 64206.00
+[20:27:56] closed 948307377 (buy) @ 64206.00
+[20:27:56] closed 948307599 (buy) @ 64203.00
+[20:27:56] closed 948307969 (buy) @ 64203.00
+[20:27:57] closed 948308124 (buy) @ 64201.00
+[20:27:57] closed 948308267 (buy) @ 64201.00
+[20:27:57] closed 948308496 (buy) @ 64198.00
+[20:27:57] closed 948308632 (buy) @ 64196.00
+[20:27:57] closed 948308741 (buy) @ 64196.00
+[20:27:57] closed 948308828 (buy) @ 64196.00
+[20:27:58] closed 948309113 (buy) @ 64198.00
+[20:27:58] closed 948309346 (buy) @ 64198.00
+[20:27:58] closed 948309464 (buy) @ 64198.00
+[20:27:58] closed 948309807 (buy) @ 64198.00
+[20:27:58] closed 948310234 (buy) @ 64198.00
+[20:27:58] closed 31/31 positions
+[20:27:58] Stopped.

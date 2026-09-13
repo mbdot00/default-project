@@ -1,0 +1,420 @@
+Script       : trade_auto
+Session      : 12
+Direction    : BUY
+Symbol       : JP225Cash
+Lot          : 0.1
+Session start: 2026-09-03 02:12:25
+Session end  : 2026-09-03 02:26:53
+Duration     : 867.5s
+Outcome      : LOSS
+----------------------------------------------------------------------
+[02:12:25] === Session 12: choosing direction from M5 trend ===
+[02:12:25] Session 12 direction = BUY (EMA7 > EMA21). Equity start = 983.87
+[02:12:25] equity 983.87 (diff +0.00)
+[02:12:25] M1 05:12:00 open=64709.00 live=64696.00 candle=red ema7=64701.8 ema21=64649.9 BULL -> session=BUY
+[02:12:25] session=BUY but candle=red ema7=64701.8 ema21=64649.9 BULL -> no trade this tick
+[02:12:30] equity 983.87 (diff +0.00)
+[02:12:30] session=BUY but candle=red ema7=64701.8 ema21=64649.9 BULL -> no trade this tick
+[02:12:35] equity 983.87 (diff +0.00)
+[02:12:35] session=BUY but candle=red ema7=64700.6 ema21=64649.5 BULL -> no trade this tick
+[02:12:40] equity 983.87 (diff +0.00)
+[02:12:40] session=BUY but candle=red ema7=64700.6 ema21=64649.5 BULL -> no trade this tick
+[02:12:45] equity 983.87 (diff +0.00)
+[02:12:45] session=BUY but candle=red ema7=64700.6 ema21=64649.5 BULL -> no trade this tick
+[02:12:50] equity 983.87 (diff +0.00)
+[02:12:50] session=BUY but candle=red ema7=64700.6 ema21=64649.5 BULL -> no trade this tick
+[02:12:55] equity 983.87 (diff +0.00)
+[02:12:55] session=BUY but candle=red ema7=64700.1 ema21=64649.3 BULL -> no trade this tick
+[02:13:00] equity 983.87 (diff +0.00)
+[02:13:00] M1 05:13:00 open=64689.00 live=64689.00 candle=red ema7=64700.1 ema21=64649.3 BULL -> session=BUY
+[02:13:00] session=BUY but candle=red ema7=64700.1 ema21=64649.3 BULL -> no trade this tick
+[02:13:05] equity 983.87 (diff +0.00)
+[02:13:05] BUY opened. ticket=948833128, price=64702.0
+[02:13:10] equity 983.86 (diff -0.01)
+[02:13:11] BUY opened. ticket=948833179, price=64699.0
+[02:13:16] equity 983.85 (diff -0.02)
+[02:13:16] BUY opened. ticket=948833222, price=64699.0
+[02:13:21] equity 983.87 (diff +0.00)
+[02:13:21] BUY opened. ticket=948833282, price=64707.0
+[02:13:26] equity 983.86 (diff -0.01)
+[02:13:26] BUY opened. ticket=948833317, price=64707.0
+[02:13:31] equity 983.85 (diff -0.02)
+[02:13:31] BUY opened. ticket=948833360, price=64712.0
+[02:13:36] equity 983.88 (diff +0.01)
+[02:13:36] BUY opened. ticket=948833415, price=64714.0
+[02:13:41] equity 983.89 (diff +0.02)
+[02:13:42] BUY opened. ticket=948833444, price=64717.0
+[02:13:47] equity 983.89 (diff +0.02)
+[02:13:47] BUY opened. ticket=948833470, price=64719.0
+[02:13:52] equity 983.85 (diff -0.02)
+[02:13:52] BUY opened. ticket=948833517, price=64714.0
+[02:13:57] equity 983.84 (diff -0.03)
+[02:13:57] BUY opened. ticket=948833546, price=64712.0
+[02:14:02] equity 983.79 (diff -0.08)
+[02:14:02] M1 05:14:00 open=64701.00 live=64699.00 candle=red ema7=64702.6 ema21=64650.2 BULL -> session=BUY
+[02:14:02] session=BUY but candle=red ema7=64702.6 ema21=64650.2 BULL -> no trade this tick
+[02:14:07] equity 983.79 (diff -0.08)
+[02:14:07] session=BUY but candle=red ema7=64702.6 ema21=64650.2 BULL -> no trade this tick
+[02:14:12] equity 983.79 (diff -0.08)
+[02:14:12] session=BUY but candle=red ema7=64703.1 ema21=64650.4 BULL -> no trade this tick
+[02:14:17] equity 983.79 (diff -0.08)
+[02:14:17] session=BUY but candle=red ema7=64703.1 ema21=64650.4 BULL -> no trade this tick
+[02:14:22] equity 983.79 (diff -0.08)
+[02:14:22] session=BUY but candle=red ema7=64702.6 ema21=64650.2 BULL -> no trade this tick
+[02:14:27] equity 983.79 (diff -0.08)
+[02:14:27] session=BUY but candle=red ema7=64702.6 ema21=64650.2 BULL -> no trade this tick
+[02:14:32] equity 983.79 (diff -0.08)
+[02:14:32] session=BUY but candle=red ema7=64703.1 ema21=64650.4 BULL -> no trade this tick
+[02:14:37] equity 983.83 (diff -0.04)
+[02:14:37] BUY opened. ticket=948833998, price=64712.0
+[02:14:42] equity 983.86 (diff -0.01)
+[02:14:43] BUY opened. ticket=948834048, price=64717.0
+[02:14:48] equity 983.81 (diff -0.06)
+[02:14:48] BUY opened. ticket=948834202, price=64714.0
+[02:14:53] equity 983.80 (diff -0.07)
+[02:14:53] BUY opened. ticket=948834364, price=64714.0
+[02:14:58] equity 983.87 (diff +0.00)
+[02:14:58] BUY opened. ticket=948834421, price=64719.0
+[02:15:03] equity 983.78 (diff -0.09)
+[02:15:03] M1 05:15:00 open=64704.00 live=64704.00 candle=red ema7=64705.2 ema21=64658.5 BULL -> session=BUY
+[02:15:03] session=BUY but candle=red ema7=64705.2 ema21=64658.5 BULL -> no trade this tick
+[02:15:08] equity 983.86 (diff -0.01)
+[02:15:08] BUY opened. ticket=948834784, price=64719.0
+[02:15:13] equity 983.85 (diff -0.02)
+[02:15:13] BUY opened. ticket=948835148, price=64719.0
+[02:15:18] equity 983.88 (diff +0.01)
+[02:15:19] BUY opened. ticket=948835201, price=64722.0
+[02:15:24] equity 983.83 (diff -0.04)
+[02:15:24] BUY opened. ticket=948835247, price=64719.0
+[02:15:29] equity 983.91 (diff +0.04)
+[02:15:29] BUY opened. ticket=948835297, price=64724.0
+[02:15:34] equity 983.98 (diff +0.11)
+[02:15:34] BUY opened. ticket=948835365, price=64727.0
+[02:15:39] equity 983.97 (diff +0.10)
+[02:15:39] BUY opened. ticket=948835418, price=64727.0
+[02:15:44] equity 983.79 (diff -0.08)
+[02:15:44] BUY opened. ticket=948835454, price=64719.0
+[02:15:50] equity 983.70 (diff -0.17)
+[02:15:50] session=BUY but candle=red ema7=64705.2 ema21=64658.5 BULL -> no trade this tick
+[02:15:55] equity 983.70 (diff -0.17)
+[02:15:55] BUY opened. ticket=948835572, price=64714.0
+[02:16:00] equity 983.73 (diff -0.14)
+[02:16:00] BUY opened. ticket=948835682, price=64717.0
+[02:16:05] equity 983.68 (diff -0.19)
+[02:16:05] M1 05:16:00 open=64706.00 live=64704.00 candle=red ema7=64705.2 ema21=64658.5 BULL -> session=BUY
+[02:16:05] session=BUY but candle=red ema7=64705.2 ema21=64658.5 BULL -> no trade this tick
+[02:16:10] equity 983.62 (diff -0.25)
+[02:16:10] session=BUY but candle=red ema7=64704.5 ema21=64658.2 BULL -> no trade this tick
+[02:16:15] equity 983.68 (diff -0.19)
+[02:16:15] session=BUY but candle=red ema7=64705.2 ema21=64658.5 BULL -> no trade this tick
+[02:16:20] equity 983.68 (diff -0.19)
+[02:16:20] session=BUY but candle=red ema7=64705.7 ema21=64658.7 BULL -> no trade this tick
+[02:16:25] equity 983.68 (diff -0.19)
+[02:16:25] session=BUY but candle=red ema7=64705.2 ema21=64658.5 BULL -> no trade this tick
+[02:16:30] equity 983.72 (diff -0.15)
+[02:16:30] BUY opened. ticket=948836080, price=64717.0
+[02:16:35] equity 983.67 (diff -0.20)
+[02:16:35] session=BUY but candle=red ema7=64705.2 ema21=64658.5 BULL -> no trade this tick
+[02:16:40] equity 983.67 (diff -0.20)
+[02:16:40] session=BUY but candle=red ema7=64705.7 ema21=64658.7 BULL -> no trade this tick
+[02:16:45] equity 983.67 (diff -0.20)
+[02:16:45] session=BUY but candle=red ema7=64705.2 ema21=64658.5 BULL -> no trade this tick
+[02:16:50] equity 983.67 (diff -0.20)
+[02:16:50] session=BUY but candle=red ema7=64705.2 ema21=64658.5 BULL -> no trade this tick
+[02:16:55] equity 983.67 (diff -0.20)
+[02:16:55] session=BUY but candle=red ema7=64705.7 ema21=64658.7 BULL -> no trade this tick
+[02:17:00] equity 983.71 (diff -0.16)
+[02:17:00] M1 05:17:00 open=64706.00 live=64709.00 candle=green ema7=64706.5 ema21=64659.0 BULL -> session=BUY
+[02:17:00] BUY opened. ticket=948836422, price=64717.0
+[02:17:05] equity 983.66 (diff -0.21)
+[02:17:05] session=BUY but candle=red ema7=64705.7 ema21=64658.7 BULL -> no trade this tick
+[02:17:10] equity 983.82 (diff -0.05)
+[02:17:10] BUY opened. ticket=948836502, price=64722.0
+[02:17:15] equity 983.81 (diff -0.06)
+[02:17:16] BUY opened. ticket=948836533, price=64722.0
+[02:17:21] equity 983.80 (diff -0.07)
+[02:17:21] BUY opened. ticket=948836563, price=64722.0
+[02:17:26] equity 983.67 (diff -0.20)
+[02:17:26] BUY opened. ticket=948836589, price=64717.0
+[02:17:31] equity 983.62 (diff -0.25)
+[02:17:31] session=BUY but candle=red ema7=64705.7 ema21=64658.7 BULL -> no trade this tick
+[02:17:36] equity 983.62 (diff -0.25)
+[02:17:36] session=BUY but candle=red ema7=64705.7 ema21=64658.7 BULL -> no trade this tick
+[02:17:41] equity 983.71 (diff -0.16)
+[02:17:41] BUY opened. ticket=948836762, price=64719.0
+[02:17:46] equity 983.65 (diff -0.22)
+[02:17:46] BUY opened. ticket=948836831, price=64717.0
+[02:17:51] equity 983.64 (diff -0.23)
+[02:17:51] BUY opened. ticket=948837173, price=64717.0
+[02:17:57] equity 983.78 (diff -0.09)
+[02:17:57] BUY opened. ticket=948837227, price=64722.0
+[02:18:02] equity 983.77 (diff -0.10)
+[02:18:02] M1 05:18:00 open=64714.00 live=64714.00 candle=red ema7=64707.7 ema21=64659.4 BULL -> session=BUY
+[02:18:02] session=BUY but candle=red ema7=64707.7 ema21=64659.4 BULL -> no trade this tick
+[02:18:07] equity 983.77 (diff -0.10)
+[02:18:07] session=BUY but candle=red ema7=64707.7 ema21=64659.4 BULL -> no trade this tick
+[02:18:12] equity 983.77 (diff -0.10)
+[02:18:12] session=BUY but candle=red ema7=64707.7 ema21=64659.4 BULL -> no trade this tick
+[02:18:17] equity 983.77 (diff -0.10)
+[02:18:17] session=BUY but candle=red ema7=64707.7 ema21=64659.4 BULL -> no trade this tick
+[02:18:22] equity 983.77 (diff -0.10)
+[02:18:22] session=BUY but candle=red ema7=64707.7 ema21=64659.4 BULL -> no trade this tick
+[02:18:27] equity 983.77 (diff -0.10)
+[02:18:27] session=BUY but candle=red ema7=64707.7 ema21=64659.4 BULL -> no trade this tick
+[02:18:32] equity 983.84 (diff -0.03)
+[02:18:32] BUY opened. ticket=948837912, price=64724.0
+[02:18:37] equity 983.96 (diff +0.09)
+[02:18:37] BUY opened. ticket=948837964, price=64727.0
+[02:18:42] equity 983.97 (diff +0.10)
+[02:18:42] BUY opened. ticket=948838018, price=64729.0
+[02:18:47] equity 985.91 (diff +2.04)
+[02:18:47] BUY opened. ticket=948838747, price=64809.0
+[02:18:52] equity 985.32 (diff +1.45)
+[02:18:53] BUY opened. ticket=948839370, price=64777.0
+[02:18:58] equity 985.13 (diff +1.26)
+[02:18:58] BUY opened. ticket=948839590, price=64784.0
+[02:19:03] equity 985.12 (diff +1.25)
+[02:19:03] M1 05:19:00 open=64771.00 live=64769.00 candle=red ema7=64721.5 ema21=64664.4 BULL -> session=BUY
+[02:19:03] session=BUY but candle=red ema7=64721.5 ema21=64664.4 BULL -> no trade this tick
+[02:19:08] equity 985.12 (diff +1.25)
+[02:19:08] session=BUY but candle=red ema7=64721.5 ema21=64664.4 BULL -> no trade this tick
+[02:19:13] equity 985.12 (diff +1.25)
+[02:19:13] session=BUY but candle=red ema7=64721.5 ema21=64664.4 BULL -> no trade this tick
+[02:19:18] equity 985.04 (diff +1.17)
+[02:19:18] session=BUY but candle=red ema7=64720.7 ema21=64664.2 BULL -> no trade this tick
+[02:19:23] equity 984.97 (diff +1.10)
+[02:19:23] session=BUY but candle=red ema7=64719.0 ema21=64663.5 BULL -> no trade this tick
+[02:19:28] equity 985.12 (diff +1.25)
+[02:19:28] session=BUY but candle=red ema7=64722.0 ema21=64664.6 BULL -> no trade this tick
+[02:19:33] equity 985.12 (diff +1.25)
+[02:19:33] session=BUY but candle=red ema7=64721.5 ema21=64664.4 BULL -> no trade this tick
+[02:19:38] equity 984.89 (diff +1.02)
+[02:19:38] session=BUY but candle=red ema7=64718.2 ema21=64663.2 BULL -> no trade this tick
+[02:19:43] equity 984.89 (diff +1.02)
+[02:19:43] session=BUY but candle=red ema7=64718.2 ema21=64663.2 BULL -> no trade this tick
+[02:19:48] equity 984.89 (diff +1.02)
+[02:19:48] session=BUY but candle=red ema7=64718.2 ema21=64663.2 BULL -> no trade this tick
+[02:19:53] equity 984.88 (diff +1.01)
+[02:19:53] session=BUY but candle=red ema7=64717.7 ema21=64663.1 BULL -> no trade this tick
+[02:19:58] equity 984.89 (diff +1.02)
+[02:19:58] session=BUY but candle=red ema7=64718.2 ema21=64663.2 BULL -> no trade this tick
+[02:20:03] equity 984.89 (diff +1.02)
+[02:20:03] M1 05:20:00 open=64754.00 live=64756.00 candle=green ema7=64727.7 ema21=64671.4 BULL -> session=BUY
+[02:20:03] BUY opened. ticket=948841185, price=64764.0
+[02:20:08] equity 984.65 (diff +0.78)
+[02:20:08] session=BUY but candle=red ema7=64726.4 ema21=64671.0 BULL -> no trade this tick
+[02:20:13] equity 984.87 (diff +1.00)
+[02:20:13] session=BUY but candle=red ema7=64727.2 ema21=64671.3 BULL -> no trade this tick
+[02:20:18] equity 984.64 (diff +0.77)
+[02:20:18] session=BUY but candle=red ema7=64725.9 ema21=64670.8 BULL -> no trade this tick
+[02:20:23] equity 984.65 (diff +0.78)
+[02:20:23] session=BUY but candle=red ema7=64726.4 ema21=64671.0 BULL -> no trade this tick
+[02:20:28] equity 984.49 (diff +0.62)
+[02:20:28] session=BUY but candle=red ema7=64725.2 ema21=64670.5 BULL -> no trade this tick
+[02:20:33] equity 984.49 (diff +0.62)
+[02:20:33] session=BUY but candle=red ema7=64724.7 ema21=64670.3 BULL -> no trade this tick
+[02:20:38] equity 984.49 (diff +0.62)
+[02:20:38] session=BUY but candle=red ema7=64725.2 ema21=64670.5 BULL -> no trade this tick
+[02:20:43] equity 984.87 (diff +1.00)
+[02:20:43] session=BUY but candle=red ema7=64727.2 ema21=64671.3 BULL -> no trade this tick
+[02:20:48] equity 984.65 (diff +0.78)
+[02:20:48] session=BUY but candle=red ema7=64726.4 ema21=64671.0 BULL -> no trade this tick
+[02:20:53] equity 984.64 (diff +0.77)
+[02:20:53] session=BUY but candle=red ema7=64725.9 ema21=64670.8 BULL -> no trade this tick
+[02:20:58] equity 984.64 (diff +0.77)
+[02:20:58] session=BUY but candle=red ema7=64725.9 ema21=64670.8 BULL -> no trade this tick
+[02:21:03] equity 984.98 (diff +1.11)
+[02:21:03] M1 05:21:00 open=64754.00 live=64761.00 candle=green ema7=64728.9 ema21=64671.9 BULL -> session=BUY
+[02:21:03] BUY opened. ticket=948842434, price=64767.0
+[02:21:08] equity 984.87 (diff +1.00)
+[02:21:08] BUY opened. ticket=948842541, price=64764.0
+[02:21:13] equity 984.47 (diff +0.60)
+[02:21:13] session=BUY but candle=red ema7=64724.7 ema21=64670.3 BULL -> no trade this tick
+[02:21:18] equity 984.26 (diff +0.39)
+[02:21:18] session=BUY but candle=red ema7=64723.4 ema21=64669.9 BULL -> no trade this tick
+[02:21:23] equity 984.28 (diff +0.41)
+[02:21:23] session=BUY but candle=red ema7=64723.9 ema21=64670.1 BULL -> no trade this tick
+[02:21:28] equity 984.17 (diff +0.30)
+[02:21:28] session=BUY but candle=red ema7=64722.7 ema21=64669.6 BULL -> no trade this tick
+[02:21:33] equity 984.04 (diff +0.17)
+[02:21:33] session=BUY but candle=red ema7=64720.9 ema21=64669.0 BULL -> no trade this tick
+[02:21:38] equity 984.16 (diff +0.29)
+[02:21:38] session=BUY but candle=red ema7=64722.2 ema21=64669.4 BULL -> no trade this tick
+[02:21:43] equity 983.71 (diff -0.16)
+[02:21:43] session=BUY but candle=red ema7=64718.4 ema21=64668.1 BULL -> no trade this tick
+[02:21:48] equity 983.51 (diff -0.36)
+[02:21:48] session=BUY but candle=red ema7=64717.2 ema21=64667.6 BULL -> no trade this tick
+[02:21:53] equity 983.40 (diff -0.47)
+[02:21:53] session=BUY but candle=red ema7=64716.4 ema21=64667.3 BULL -> no trade this tick
+[02:21:58] equity 983.94 (diff +0.07)
+[02:21:58] session=BUY but candle=red ema7=64719.7 ema21=64668.5 BULL -> no trade this tick
+[02:22:03] equity 983.51 (diff -0.36)
+[02:22:03] M1 05:22:00 open=64721.00 live=64714.00 candle=red ema7=64717.2 ema21=64667.6 BULL -> session=BUY
+[02:22:03] session=BUY but candle=red ema7=64717.2 ema21=64667.6 BULL -> no trade this tick
+[02:22:08] equity 983.32 (diff -0.55)
+[02:22:08] session=BUY but candle=red ema7=64715.9 ema21=64667.2 BULL -> no trade this tick
+[02:22:13] equity 983.40 (diff -0.47)
+[02:22:13] session=BUY but candle=red ema7=64716.4 ema21=64667.3 BULL -> no trade this tick
+[02:22:18] equity 983.40 (diff -0.47)
+[02:22:18] session=BUY but candle=red ema7=64716.4 ema21=64667.3 BULL -> no trade this tick
+[02:22:23] equity 983.32 (diff -0.55)
+[02:22:23] session=BUY but candle=red ema7=64715.9 ema21=64667.2 BULL -> no trade this tick
+[02:22:28] equity 983.58 (diff -0.29)
+[02:22:28] session=BUY but candle=red ema7=64717.7 ema21=64667.8 BULL -> no trade this tick
+[02:22:33] equity 983.58 (diff -0.29)
+[02:22:33] session=BUY but candle=red ema7=64717.7 ema21=64667.8 BULL -> no trade this tick
+[02:22:38] equity 983.28 (diff -0.59)
+[02:22:38] session=BUY but candle=red ema7=64715.2 ema21=64666.9 BULL -> no trade this tick
+[02:22:43] equity 983.40 (diff -0.47)
+[02:22:43] session=BUY but candle=red ema7=64716.4 ema21=64667.3 BULL -> no trade this tick
+[02:22:48] equity 983.58 (diff -0.29)
+[02:22:48] session=BUY but candle=red ema7=64717.7 ema21=64667.8 BULL -> no trade this tick
+[02:22:53] equity 983.51 (diff -0.36)
+[02:22:53] session=BUY but candle=red ema7=64717.2 ema21=64667.6 BULL -> no trade this tick
+[02:22:58] equity 983.71 (diff -0.16)
+[02:22:58] session=BUY but candle=red ema7=64718.4 ema21=64668.1 BULL -> no trade this tick
+[02:23:03] equity 983.71 (diff -0.16)
+[02:23:03] session=BUY but candle=red ema7=64718.4 ema21=64668.1 BULL -> no trade this tick
+[02:23:08] equity 983.71 (diff -0.16)
+[02:23:08] session=BUY but candle=red ema7=64718.4 ema21=64668.1 BULL -> no trade this tick
+[02:23:13] equity 983.28 (diff -0.59)
+[02:23:13] M1 05:23:00 open=64716.00 live=64706.00 candle=red ema7=64715.2 ema21=64666.9 BULL -> session=BUY
+[02:23:13] session=BUY but candle=red ema7=64715.2 ema21=64666.9 BULL -> no trade this tick
+[02:23:18] equity 983.26 (diff -0.61)
+[02:23:18] session=BUY but candle=red ema7=64714.7 ema21=64666.7 BULL -> no trade this tick
+[02:23:23] equity 983.51 (diff -0.36)
+[02:23:23] session=BUY but candle=red ema7=64717.2 ema21=64667.6 BULL -> no trade this tick
+[02:23:28] equity 983.51 (diff -0.36)
+[02:23:28] session=BUY but candle=red ema7=64717.2 ema21=64667.6 BULL -> no trade this tick
+[02:23:33] equity 983.51 (diff -0.36)
+[02:23:33] session=BUY but candle=red ema7=64717.2 ema21=64667.6 BULL -> no trade this tick
+[02:23:38] equity 983.26 (diff -0.61)
+[02:23:38] session=BUY but candle=red ema7=64714.7 ema21=64666.7 BULL -> no trade this tick
+[02:23:43] equity 983.28 (diff -0.59)
+[02:23:43] session=BUY but candle=red ema7=64715.2 ema21=64666.9 BULL -> no trade this tick
+[02:23:48] equity 983.28 (diff -0.59)
+[02:23:48] session=BUY but candle=red ema7=64715.2 ema21=64666.9 BULL -> no trade this tick
+[02:23:53] equity 983.28 (diff -0.59)
+[02:23:53] session=BUY but candle=red ema7=64715.2 ema21=64666.9 BULL -> no trade this tick
+[02:23:58] equity 983.26 (diff -0.61)
+[02:23:58] session=BUY but candle=red ema7=64714.7 ema21=64666.7 BULL -> no trade this tick
+[02:24:03] equity 983.32 (diff -0.55)
+[02:24:03] M1 05:24:00 open=64709.00 live=64709.00 candle=red ema7=64715.9 ema21=64667.2 BULL -> session=BUY
+[02:24:03] session=BUY but candle=red ema7=64715.9 ema21=64667.2 BULL -> no trade this tick
+[02:24:08] equity 983.32 (diff -0.55)
+[02:24:08] session=BUY but candle=red ema7=64715.9 ema21=64667.2 BULL -> no trade this tick
+[02:24:13] equity 983.32 (diff -0.55)
+[02:24:13] session=BUY but candle=red ema7=64715.9 ema21=64667.2 BULL -> no trade this tick
+[02:24:18] equity 983.18 (diff -0.69)
+[02:24:18] session=BUY but candle=red ema7=64713.9 ema21=64666.4 BULL -> no trade this tick
+[02:24:23] equity 983.28 (diff -0.59)
+[02:24:23] session=BUY but candle=red ema7=64715.2 ema21=64666.9 BULL -> no trade this tick
+[02:24:28] equity 983.32 (diff -0.55)
+[02:24:28] session=BUY but candle=red ema7=64715.9 ema21=64667.2 BULL -> no trade this tick
+[02:24:33] equity 983.28 (diff -0.59)
+[02:24:33] session=BUY but candle=red ema7=64715.2 ema21=64666.9 BULL -> no trade this tick
+[02:24:38] equity 983.26 (diff -0.61)
+[02:24:38] session=BUY but candle=red ema7=64714.7 ema21=64666.7 BULL -> no trade this tick
+[02:24:43] equity 983.28 (diff -0.59)
+[02:24:43] session=BUY but candle=red ema7=64715.2 ema21=64666.9 BULL -> no trade this tick
+[02:24:48] equity 983.28 (diff -0.59)
+[02:24:48] session=BUY but candle=red ema7=64715.2 ema21=64666.9 BULL -> no trade this tick
+[02:24:53] equity 983.15 (diff -0.72)
+[02:24:53] session=BUY but candle=red ema7=64713.4 ema21=64666.3 BULL -> no trade this tick
+[02:24:58] equity 983.26 (diff -0.61)
+[02:24:58] session=BUY but candle=red ema7=64714.7 ema21=64666.7 BULL -> no trade this tick
+[02:25:03] equity 983.26 (diff -0.61)
+[02:25:03] M1 05:25:00 open=64706.00 live=64704.00 candle=red ema7=64711.9 ema21=64664.6 BULL -> session=BUY
+[02:25:03] session=BUY but candle=red ema7=64711.9 ema21=64664.6 BULL -> no trade this tick
+[02:25:08] equity 983.28 (diff -0.59)
+[02:25:08] session=BUY but candle=red ema7=64712.4 ema21=64664.8 BULL -> no trade this tick
+[02:25:13] equity 983.28 (diff -0.59)
+[02:25:13] session=BUY but candle=red ema7=64712.4 ema21=64664.8 BULL -> no trade this tick
+[02:25:18] equity 983.32 (diff -0.55)
+[02:25:19] BUY opened. ticket=948846769, price=64717.0
+[02:25:24] equity 983.39 (diff -0.48)
+[02:25:24] BUY opened. ticket=948846829, price=64719.0
+[02:25:29] equity 983.30 (diff -0.57)
+[02:25:29] BUY opened. ticket=948846921, price=64717.0
+[02:25:34] equity 983.23 (diff -0.64)
+[02:25:34] session=BUY but candle=red ema7=64711.9 ema21=64664.6 BULL -> no trade this tick
+[02:25:39] equity 983.23 (diff -0.64)
+[02:25:39] session=BUY but candle=red ema7=64711.9 ema21=64664.6 BULL -> no trade this tick
+[02:25:44] equity 983.23 (diff -0.64)
+[02:25:44] session=BUY but candle=red ema7=64711.9 ema21=64664.6 BULL -> no trade this tick
+[02:25:49] equity 983.23 (diff -0.64)
+[02:25:49] session=BUY but candle=red ema7=64711.9 ema21=64664.6 BULL -> no trade this tick
+[02:25:54] equity 983.50 (diff -0.37)
+[02:25:54] BUY opened. ticket=948847197, price=64722.0
+[02:25:59] equity 983.28 (diff -0.59)
+[02:25:59] M1 05:26:00 open=64709.00 live=64709.00 candle=red ema7=64713.2 ema21=64665.0 BULL -> session=BUY
+[02:25:59] session=BUY but candle=red ema7=64713.2 ema21=64665.0 BULL -> no trade this tick
+[02:26:04] equity 983.22 (diff -0.65)
+[02:26:04] session=BUY but candle=red ema7=64711.9 ema21=64664.6 BULL -> no trade this tick
+[02:26:09] equity 983.22 (diff -0.65)
+[02:26:09] session=BUY but candle=red ema7=64711.9 ema21=64664.6 BULL -> no trade this tick
+[02:26:14] equity 983.24 (diff -0.63)
+[02:26:14] session=BUY but candle=red ema7=64712.4 ema21=64664.8 BULL -> no trade this tick
+[02:26:19] equity 983.22 (diff -0.65)
+[02:26:19] session=BUY but candle=red ema7=64711.9 ema21=64664.6 BULL -> no trade this tick
+[02:26:24] equity 983.22 (diff -0.65)
+[02:26:24] session=BUY but candle=red ema7=64711.9 ema21=64664.6 BULL -> no trade this tick
+[02:26:29] equity 983.24 (diff -0.63)
+[02:26:29] session=BUY but candle=red ema7=64712.4 ema21=64664.8 BULL -> no trade this tick
+[02:26:34] equity 983.11 (diff -0.76)
+[02:26:34] session=BUY but candle=red ema7=64710.7 ema21=64664.1 BULL -> no trade this tick
+[02:26:39] equity 982.92 (diff -0.95)
+[02:26:39] session=BUY but candle=red ema7=64709.4 ema21=64663.7 BULL -> no trade this tick
+[02:26:44] equity 982.59 (diff -1.28)
+[02:26:44] STOP: equity diff -1.28 <= -1.00. Closing all positions.
+[02:26:44] closed 948833128 (buy) @ 64686.00
+[02:26:45] closed 948833179 (buy) @ 64686.00
+[02:26:45] closed 948833222 (buy) @ 64686.00
+[02:26:45] closed 948833282 (buy) @ 64686.00
+[02:26:45] closed 948833317 (buy) @ 64686.00
+[02:26:45] closed 948833360 (buy) @ 64686.00
+[02:26:45] closed 948833415 (buy) @ 64684.00
+[02:26:46] closed 948833444 (buy) @ 64684.00
+[02:26:46] closed 948833470 (buy) @ 64684.00
+[02:26:46] closed 948833517 (buy) @ 64684.00
+[02:26:46] closed 948833546 (buy) @ 64684.00
+[02:26:46] closed 948833998 (buy) @ 64684.00
+[02:26:46] closed 948834048 (buy) @ 64681.00
+[02:26:47] closed 948834202 (buy) @ 64681.00
+[02:26:47] closed 948834364 (buy) @ 64681.00
+[02:26:47] closed 948834421 (buy) @ 64681.00
+[02:26:47] closed 948834784 (buy) @ 64681.00
+[02:26:47] closed 948835148 (buy) @ 64681.00
+[02:26:47] closed 948835201 (buy) @ 64681.00
+[02:26:48] closed 948835247 (buy) @ 64681.00
+[02:26:48] closed 948835297 (buy) @ 64681.00
+[02:26:48] closed 948835365 (buy) @ 64681.00
+[02:26:48] closed 948835418 (buy) @ 64681.00
+[02:26:48] closed 948835454 (buy) @ 64681.00
+[02:26:49] closed 948835572 (buy) @ 64681.00
+[02:26:49] closed 948835682 (buy) @ 64684.00
+[02:26:49] closed 948836080 (buy) @ 64684.00
+[02:26:49] closed 948836422 (buy) @ 64684.00
+[02:26:49] closed 948836502 (buy) @ 64684.00
+[02:26:49] closed 948836533 (buy) @ 64684.00
+[02:26:50] closed 948836563 (buy) @ 64684.00
+[02:26:50] closed 948836589 (buy) @ 64684.00
+[02:26:50] closed 948836762 (buy) @ 64684.00
+[02:26:50] closed 948836831 (buy) @ 64684.00
+[02:26:50] closed 948837173 (buy) @ 64684.00
+[02:26:50] closed 948837227 (buy) @ 64684.00
+[02:26:51] closed 948837912 (buy) @ 64684.00
+[02:26:51] closed 948837964 (buy) @ 64684.00
+[02:26:51] closed 948838018 (buy) @ 64684.00
+[02:26:51] closed 948838747 (buy) @ 64684.00
+[02:26:51] closed 948839370 (buy) @ 64684.00
+[02:26:52] closed 948839590 (buy) @ 64684.00
+[02:26:52] closed 948841185 (buy) @ 64684.00
+[02:26:52] closed 948842434 (buy) @ 64684.00
+[02:26:52] closed 948842541 (buy) @ 64684.00
+[02:26:52] closed 948846769 (buy) @ 64684.00
+[02:26:52] closed 948846829 (buy) @ 64684.00
+[02:26:53] closed 948846921 (buy) @ 64684.00
+[02:26:53] closed 948847197 (buy) @ 64681.00
+[02:26:53] closed 49/49 positions
+[02:26:53] --- Session 12 finished: LOSS ---

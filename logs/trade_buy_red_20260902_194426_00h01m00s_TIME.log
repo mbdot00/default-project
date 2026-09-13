@@ -1,0 +1,42 @@
+Script       : trade_buy_red
+Symbol       : JP225Cash
+Lot          : 0.1
+Session start: 2026-09-02 19:44:26
+Session end  : 2026-09-02 19:45:26
+Duration     : 60.0s
+Outcome      : TIME
+----------------------------------------------------------------------
+[19:44:26] MT5 initialized: (500, 6140, '21 Aug 2026')
+[19:44:26] Account 334072459 on XMGlobal-MT5 9, equity start = 991.34 USD
+[19:44:26] Trading JP225Cash @ 64028.00/64036.00, lot 0.1
+[19:44:26] Running (trend-follow BUY: M5 EMA7>EMA21 and M1 candle green, every 5s, stop if equity <= 990.34 or >= 996.34 from start).
+[19:44:26] equity 991.34 (diff +0.00)
+[19:44:26] M1 22:44:00 open=64036.00 live=64028.00 candle=red ema7=64025.5 ema21=63956.2 BULL -> hold
+[19:44:26] candle is red -> no BUY (red, trend down)
+[19:44:31] equity 991.34 (diff +0.00)
+[19:44:31] candle is red -> no BUY (red, trend down)
+[19:44:36] equity 991.34 (diff +0.00)
+[19:44:36] candle is red -> no BUY (red, trend down)
+[19:44:41] equity 991.34 (diff +0.00)
+[19:44:41] candle is red -> no BUY (red, trend down)
+[19:44:46] equity 991.34 (diff +0.00)
+[19:44:46] candle is red -> no BUY (red, trend down)
+[19:44:51] equity 991.34 (diff +0.00)
+[19:44:51] candle is red -> no BUY (red, trend down)
+[19:44:56] equity 991.34 (diff +0.00)
+[19:44:56] candle is red -> no BUY (red, trend down)
+[19:45:01] equity 991.34 (diff +0.00)
+[19:45:01] M1 22:45:00 open=64028.00 live=64026.00 candle=red ema7=64024.4 ema21=63944.1 BULL -> hold
+[19:45:01] candle is red -> no BUY (red, trend down)
+[19:45:06] equity 991.34 (diff +0.00)
+[19:45:06] candle is red -> no BUY (red, trend down)
+[19:45:11] equity 991.34 (diff +0.00)
+[19:45:11] candle is red -> no BUY (red, trend down)
+[19:45:16] equity 991.34 (diff +0.00)
+[19:45:16] candle is red -> no BUY (red, trend down)
+[19:45:21] equity 991.34 (diff +0.00)
+[19:45:21] candle is red -> no BUY (red, trend down)
+[19:45:26] equity 991.34 (diff +0.00)
+[19:45:26] TIME STOP: reached 1 minutes. Closing all positions and exiting.
+[19:45:26] no open positions to close
+[19:45:26] Stopped.

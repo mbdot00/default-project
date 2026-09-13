@@ -1,0 +1,54 @@
+Script       : trade_buy_trend
+Symbol       : JP225Cash
+Lot          : 0.1
+Session start: 2026-09-02 19:53:51
+Session end  : 2026-09-02 19:54:55
+Duration     : 64.4s
+Outcome      : TIME
+----------------------------------------------------------------------
+[19:53:51] MT5 initialized: (500, 6140, '21 Aug 2026')
+[19:53:51] Account 334072459 on XMGlobal-MT5 9, equity start = 991.34 USD
+[19:53:51] Trading JP225Cash @ 64043.00/64051.00, lot 0.1
+[19:53:51] Running (trend-follow BUY: M5 EMA7>EMA21 and M1 candle green, every 5s, stop if equity <= 990.34 or >= 996.34 from start).
+[19:53:51] equity 991.34 (diff +0.00)
+[19:53:51] M1 22:53:00 open=64026.00 live=64043.00 candle=green ema7=64029.5 ema21=63959.4 BULL -> follow BUY
+[19:53:51] BUY opened. ticket=948256522, price=64051.0
+[19:53:56] equity 991.33 (diff +-0.01)
+[19:53:56] BUY opened. ticket=948256619, price=64044.0
+[19:54:01] equity 991.32 (diff +-0.02)
+[19:54:01] BUY opened. ticket=948256697, price=64044.0
+[19:54:06] equity 991.31 (diff +-0.03)
+[19:54:06] M1 22:54:00 open=64031.00 live=64033.00 candle=green ema7=64027.0 ema21=63958.5 BULL -> follow BUY
+[19:54:07] BUY opened. ticket=948256800, price=64039.0
+[19:54:12] equity 991.33 (diff +-0.01)
+[19:54:12] BUY opened. ticket=948256925, price=64051.0
+[19:54:17] equity 991.39 (diff +0.05)
+[19:54:17] BUY opened. ticket=948257061, price=64061.0
+[19:54:22] equity 991.39 (diff +0.05)
+[19:54:22] BUY opened. ticket=948257530, price=64071.0
+[19:54:27] equity 991.40 (diff +0.06)
+[19:54:27] BUY opened. ticket=948257739, price=64074.0
+[19:54:32] equity 991.43 (diff +0.09)
+[19:54:33] BUY opened. ticket=948257998, price=64079.0
+[19:54:38] equity 991.36 (diff +0.02)
+[19:54:38] BUY opened. ticket=948258132, price=64069.0
+[19:54:43] equity 991.35 (diff +0.01)
+[19:54:43] BUY opened. ticket=948258231, price=64071.0
+[19:54:48] equity 991.34 (diff +0.00)
+[19:54:48] BUY opened. ticket=948258352, price=64069.0
+[19:54:53] equity 991.33 (diff +-0.01)
+[19:54:53] TIME STOP: reached 1 minutes. Closing all positions and exiting.
+[19:54:53] closed 948256522 (buy) @ 64063.00
+[19:54:53] closed 948256619 (buy) @ 64063.00
+[19:54:54] closed 948256697 (buy) @ 64063.00
+[19:54:54] closed 948256800 (buy) @ 64063.00
+[19:54:54] closed 948256925 (buy) @ 64063.00
+[19:54:54] closed 948257061 (buy) @ 64063.00
+[19:54:54] closed 948257530 (buy) @ 64058.00
+[19:54:54] closed 948257739 (buy) @ 64058.00
+[19:54:55] closed 948257998 (buy) @ 64058.00
+[19:54:55] closed 948258132 (buy) @ 64058.00
+[19:54:55] closed 948258231 (buy) @ 64058.00
+[19:54:55] closed 948258352 (buy) @ 64058.00
+[19:54:55] closed 12/12 positions
+[19:54:55] Stopped.

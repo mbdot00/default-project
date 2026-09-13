@@ -1,0 +1,508 @@
+Script       : trade_auto
+Session      : 29
+Direction    : SELL
+Symbol       : JP225Cash
+Lot          : 0.1
+Session start: 2026-09-03 07:37:59
+Session end  : 2026-09-03 07:57:22
+Duration     : 1163.2s
+Outcome      : LOSS
+----------------------------------------------------------------------
+[07:37:59] === Session 29: choosing direction from M5 trend ===
+[07:37:59] Session 29 direction = SELL (EMA7 < EMA21). Equity start = 971.94
+[07:37:59] equity 971.94 (diff +0.00)
+[07:37:59] M1 10:38:00 open=64544.00 live=64544.00 candle=red ema7=64543.9 ema21=64556.7 BEAR -> session=SELL
+[07:37:59] SELL opened. ticket=948986776, price=64544.0
+[07:38:04] equity 971.93 (diff -0.01)
+[07:38:04] SELL opened. ticket=948986790, price=64544.0
+[07:38:09] equity 971.92 (diff -0.02)
+[07:38:10] SELL opened. ticket=948986827, price=64544.0
+[07:38:15] equity 971.91 (diff -0.03)
+[07:38:15] SELL opened. ticket=948986863, price=64544.0
+[07:38:20] equity 971.90 (diff -0.04)
+[07:38:20] session=SELL but candle=green ema7=64544.4 ema21=64556.9 BEAR -> no trade this tick
+[07:38:25] equity 971.90 (diff -0.04)
+[07:38:25] session=SELL but candle=green ema7=64544.4 ema21=64556.9 BEAR -> no trade this tick
+[07:38:30] equity 971.90 (diff -0.04)
+[07:38:30] session=SELL but candle=green ema7=64544.4 ema21=64556.9 BEAR -> no trade this tick
+[07:38:35] equity 971.90 (diff -0.04)
+[07:38:35] session=SELL but candle=green ema7=64544.4 ema21=64556.9 BEAR -> no trade this tick
+[07:38:40] equity 971.86 (diff -0.08)
+[07:38:40] session=SELL but candle=green ema7=64549.4 ema21=64558.7 BEAR -> no trade this tick
+[07:38:45] equity 971.86 (diff -0.08)
+[07:38:45] session=SELL but candle=green ema7=64549.4 ema21=64558.7 BEAR -> no trade this tick
+[07:38:50] equity 971.86 (diff -0.08)
+[07:38:50] session=SELL but candle=green ema7=64548.9 ema21=64558.5 BEAR -> no trade this tick
+[07:38:55] equity 971.86 (diff -0.08)
+[07:38:55] session=SELL but candle=green ema7=64548.9 ema21=64558.5 BEAR -> no trade this tick
+[07:39:00] equity 971.86 (diff -0.08)
+[07:39:00] session=SELL but candle=green ema7=64548.9 ema21=64558.5 BEAR -> no trade this tick
+[07:39:05] equity 971.86 (diff -0.08)
+[07:39:05] session=SELL but candle=green ema7=64548.9 ema21=64558.5 BEAR -> no trade this tick
+[07:39:10] equity 971.86 (diff -0.08)
+[07:39:10] session=SELL but candle=green ema7=64548.9 ema21=64558.5 BEAR -> no trade this tick
+[07:39:15] equity 971.86 (diff -0.08)
+[07:39:15] session=SELL but candle=green ema7=64548.9 ema21=64558.5 BEAR -> no trade this tick
+[07:39:20] equity 971.86 (diff -0.08)
+[07:39:20] session=SELL but candle=green ema7=64548.9 ema21=64558.5 BEAR -> no trade this tick
+[07:39:25] equity 971.86 (diff -0.08)
+[07:39:25] session=SELL but candle=green ema7=64548.9 ema21=64558.5 BEAR -> no trade this tick
+[07:39:30] equity 971.86 (diff -0.08)
+[07:39:30] session=SELL but candle=green ema7=64548.9 ema21=64558.5 BEAR -> no trade this tick
+[07:39:35] equity 971.86 (diff -0.08)
+[07:39:35] session=SELL but candle=green ema7=64548.9 ema21=64558.5 BEAR -> no trade this tick
+[07:39:40] equity 971.82 (diff -0.12)
+[07:39:40] M1 10:39:00 open=64566.00 live=64586.00 candle=green ema7=64554.4 ema21=64560.5 BEAR -> session=SELL
+[07:39:40] session=SELL but candle=green ema7=64554.4 ema21=64560.5 BEAR -> no trade this tick
+[07:39:45] equity 971.82 (diff -0.12)
+[07:39:45] session=SELL but candle=green ema7=64551.9 ema21=64559.6 BEAR -> no trade this tick
+[07:39:50] equity 971.82 (diff -0.12)
+[07:39:50] session=SELL but candle=green ema7=64553.2 ema21=64560.1 BEAR -> no trade this tick
+[07:39:55] equity 971.82 (diff -0.12)
+[07:39:55] session=SELL but candle=green ema7=64552.7 ema21=64559.9 BEAR -> no trade this tick
+[07:40:00] equity 971.82 (diff -0.12)
+[07:40:00] session=SELL but candle=green ema7=64551.4 ema21=64559.4 BEAR -> no trade this tick
+[07:40:05] equity 971.86 (diff -0.08)
+[07:40:05] M1 10:40:00 open=64566.00 live=64566.00 candle=red ema7=64554.9 ema21=64549.0 BULL -> session=SELL
+[07:40:05] session=SELL but candle=red ema7=64554.9 ema21=64549.0 BULL -> no trade this tick
+[07:40:10] equity 971.86 (diff -0.08)
+[07:40:10] session=SELL but candle=red ema7=64554.9 ema21=64549.0 BULL -> no trade this tick
+[07:40:15] equity 971.86 (diff -0.08)
+[07:40:15] session=SELL but candle=green ema7=64555.6 ema21=64549.2 BULL -> no trade this tick
+[07:40:20] equity 971.86 (diff -0.08)
+[07:40:20] session=SELL but candle=red ema7=64554.4 ema21=64548.8 BULL -> no trade this tick
+[07:40:25] equity 971.82 (diff -0.12)
+[07:40:25] session=SELL but candle=green ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:40:30] equity 971.82 (diff -0.12)
+[07:40:30] session=SELL but candle=green ema7=64558.6 ema21=64550.3 BULL -> no trade this tick
+[07:40:35] equity 971.82 (diff -0.12)
+[07:40:35] session=SELL but candle=green ema7=64558.1 ema21=64550.1 BULL -> no trade this tick
+[07:40:40] equity 971.82 (diff -0.12)
+[07:40:40] session=SELL but candle=green ema7=64558.6 ema21=64550.3 BULL -> no trade this tick
+[07:40:45] equity 971.82 (diff -0.12)
+[07:40:45] session=SELL but candle=green ema7=64558.1 ema21=64550.1 BULL -> no trade this tick
+[07:40:50] equity 971.82 (diff -0.12)
+[07:40:50] session=SELL but candle=green ema7=64558.1 ema21=64550.1 BULL -> no trade this tick
+[07:40:55] equity 971.82 (diff -0.12)
+[07:40:55] session=SELL but candle=green ema7=64558.1 ema21=64550.1 BULL -> no trade this tick
+[07:41:00] equity 971.82 (diff -0.12)
+[07:41:00] session=SELL but candle=green ema7=64558.1 ema21=64550.1 BULL -> no trade this tick
+[07:41:05] equity 971.82 (diff -0.12)
+[07:41:05] M1 10:41:00 open=64576.00 live=64576.00 candle=red ema7=64557.4 ema21=64549.9 BULL -> session=SELL
+[07:41:05] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:41:10] equity 971.82 (diff -0.12)
+[07:41:10] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:41:15] equity 971.82 (diff -0.12)
+[07:41:15] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:41:20] equity 971.82 (diff -0.12)
+[07:41:20] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:41:25] equity 971.82 (diff -0.12)
+[07:41:25] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:41:30] equity 971.82 (diff -0.12)
+[07:41:30] session=SELL but candle=green ema7=64558.6 ema21=64550.3 BULL -> no trade this tick
+[07:41:35] equity 971.82 (diff -0.12)
+[07:41:35] session=SELL but candle=green ema7=64558.6 ema21=64550.3 BULL -> no trade this tick
+[07:41:40] equity 971.82 (diff -0.12)
+[07:41:40] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:41:45] equity 971.82 (diff -0.12)
+[07:41:45] session=SELL but candle=green ema7=64558.1 ema21=64550.1 BULL -> no trade this tick
+[07:41:50] equity 971.82 (diff -0.12)
+[07:41:50] session=SELL but candle=green ema7=64558.1 ema21=64550.1 BULL -> no trade this tick
+[07:41:55] equity 971.82 (diff -0.12)
+[07:41:55] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:42:00] equity 971.82 (diff -0.12)
+[07:42:00] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:42:05] equity 971.82 (diff -0.12)
+[07:42:05] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:42:10] equity 971.82 (diff -0.12)
+[07:42:10] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:42:15] equity 971.82 (diff -0.12)
+[07:42:15] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:42:20] equity 971.82 (diff -0.12)
+[07:42:20] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:42:25] equity 971.82 (diff -0.12)
+[07:42:25] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:42:30] equity 971.82 (diff -0.12)
+[07:42:30] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:42:35] equity 971.82 (diff -0.12)
+[07:42:35] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:42:40] equity 971.82 (diff -0.12)
+[07:42:40] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:42:45] equity 971.78 (diff -0.16)
+[07:42:45] M1 10:42:00 open=64584.00 live=64594.00 candle=green ema7=64561.9 ema21=64551.5 BULL -> session=SELL
+[07:42:45] session=SELL but candle=green ema7=64561.9 ema21=64551.5 BULL -> no trade this tick
+[07:42:50] equity 971.78 (diff -0.16)
+[07:42:50] session=SELL but candle=green ema7=64564.9 ema21=64552.6 BULL -> no trade this tick
+[07:42:55] equity 971.78 (diff -0.16)
+[07:42:55] session=SELL but candle=green ema7=64564.9 ema21=64552.6 BULL -> no trade this tick
+[07:43:00] equity 971.78 (diff -0.16)
+[07:43:00] session=SELL but candle=green ema7=64561.9 ema21=64551.5 BULL -> no trade this tick
+[07:43:05] equity 971.78 (diff -0.16)
+[07:43:05] M1 10:43:00 open=64599.00 live=64599.00 candle=red ema7=64563.1 ema21=64552.0 BULL -> session=SELL
+[07:43:05] session=SELL but candle=red ema7=64563.1 ema21=64552.0 BULL -> no trade this tick
+[07:43:10] equity 971.82 (diff -0.12)
+[07:43:10] session=SELL but candle=red ema7=64559.9 ema21=64550.8 BULL -> no trade this tick
+[07:43:15] equity 971.78 (diff -0.16)
+[07:43:15] session=SELL but candle=red ema7=64561.1 ema21=64551.2 BULL -> no trade this tick
+[07:43:20] equity 971.82 (diff -0.12)
+[07:43:20] session=SELL but candle=red ema7=64560.6 ema21=64551.1 BULL -> no trade this tick
+[07:43:25] equity 971.82 (diff -0.12)
+[07:43:25] session=SELL but candle=red ema7=64560.6 ema21=64551.1 BULL -> no trade this tick
+[07:43:30] equity 971.78 (diff -0.16)
+[07:43:30] session=SELL but candle=red ema7=64561.1 ema21=64551.2 BULL -> no trade this tick
+[07:43:35] equity 971.78 (diff -0.16)
+[07:43:35] session=SELL but candle=red ema7=64561.1 ema21=64551.2 BULL -> no trade this tick
+[07:43:40] equity 971.82 (diff -0.12)
+[07:43:40] session=SELL but candle=red ema7=64560.6 ema21=64551.1 BULL -> no trade this tick
+[07:43:45] equity 971.82 (diff -0.12)
+[07:43:45] session=SELL but candle=red ema7=64560.6 ema21=64551.1 BULL -> no trade this tick
+[07:43:50] equity 971.82 (diff -0.12)
+[07:43:50] session=SELL but candle=red ema7=64560.6 ema21=64551.1 BULL -> no trade this tick
+[07:43:55] equity 971.82 (diff -0.12)
+[07:43:55] session=SELL but candle=red ema7=64560.6 ema21=64551.1 BULL -> no trade this tick
+[07:44:00] equity 971.82 (diff -0.12)
+[07:44:00] session=SELL but candle=red ema7=64560.6 ema21=64551.1 BULL -> no trade this tick
+[07:44:05] equity 971.82 (diff -0.12)
+[07:44:05] session=SELL but candle=red ema7=64560.6 ema21=64551.1 BULL -> no trade this tick
+[07:44:10] equity 971.82 (diff -0.12)
+[07:44:10] session=SELL but candle=red ema7=64560.6 ema21=64551.1 BULL -> no trade this tick
+[07:44:15] equity 971.82 (diff -0.12)
+[07:44:15] M1 10:44:00 open=64586.00 live=64574.00 candle=red ema7=64556.9 ema21=64549.7 BULL -> session=SELL
+[07:44:15] session=SELL but candle=red ema7=64556.9 ema21=64549.7 BULL -> no trade this tick
+[07:44:20] equity 971.82 (diff -0.12)
+[07:44:20] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:44:25] equity 971.82 (diff -0.12)
+[07:44:25] session=SELL but candle=red ema7=64558.1 ema21=64550.1 BULL -> no trade this tick
+[07:44:30] equity 971.82 (diff -0.12)
+[07:44:30] session=SELL but candle=red ema7=64558.1 ema21=64550.1 BULL -> no trade this tick
+[07:44:35] equity 971.82 (diff -0.12)
+[07:44:35] session=SELL but candle=red ema7=64557.4 ema21=64549.9 BULL -> no trade this tick
+[07:44:40] equity 971.82 (diff -0.12)
+[07:44:40] session=SELL but candle=red ema7=64558.1 ema21=64550.1 BULL -> no trade this tick
+[07:44:45] equity 971.82 (diff -0.12)
+[07:44:45] session=SELL but candle=red ema7=64558.6 ema21=64550.3 BULL -> no trade this tick
+[07:44:50] equity 971.78 (diff -0.16)
+[07:44:50] session=SELL but candle=green ema7=64561.1 ema21=64551.2 BULL -> no trade this tick
+[07:44:55] equity 971.78 (diff -0.16)
+[07:44:55] session=SELL but candle=green ema7=64561.1 ema21=64551.2 BULL -> no trade this tick
+[07:45:00] equity 971.78 (diff -0.16)
+[07:45:00] M1 10:45:00 open=64594.00 live=64594.00 candle=red ema7=64570.5 ema21=64571.3 BEAR -> session=SELL
+[07:45:00] SELL opened. ticket=948988098, price=64594.0
+[07:45:05] equity 971.77 (diff -0.17)
+[07:45:05] session=SELL but candle=green ema7=64573.5 ema21=64572.4 BULL -> no trade this tick
+[07:45:10] equity 971.77 (diff -0.17)
+[07:45:10] SELL opened. ticket=948988424, price=64591.0
+[07:45:15] equity 971.70 (diff -0.24)
+[07:45:15] session=SELL but candle=green ema7=64576.0 ema21=64573.3 BULL -> no trade this tick
+[07:45:20] equity 971.81 (diff -0.13)
+[07:45:20] SELL opened. ticket=948988794, price=64591.0
+[07:45:25] equity 971.61 (diff -0.33)
+[07:45:25] session=SELL but candle=green ema7=64578.5 ema21=64574.2 BULL -> no trade this tick
+[07:45:30] equity 971.48 (diff -0.46)
+[07:45:30] session=SELL but candle=green ema7=64586.8 ema21=64577.2 BULL -> no trade this tick
+[07:45:35] equity 971.75 (diff -0.19)
+[07:45:35] session=SELL but candle=green ema7=64571.8 ema21=64571.7 BULL -> no trade this tick
+[07:45:40] equity 971.75 (diff -0.19)
+[07:45:41] SELL opened. ticket=948988969, price=64594.0
+[07:45:46] equity 971.58 (diff -0.36)
+[07:45:46] session=SELL but candle=green ema7=64580.5 ema21=64574.9 BULL -> no trade this tick
+[07:45:51] equity 971.58 (diff -0.36)
+[07:45:51] session=SELL but candle=green ema7=64579.8 ema21=64574.6 BULL -> no trade this tick
+[07:45:56] equity 971.58 (diff -0.36)
+[07:45:56] session=SELL but candle=green ema7=64577.3 ema21=64573.7 BULL -> no trade this tick
+[07:46:01] equity 971.74 (diff -0.20)
+[07:46:01] M1 10:46:00 open=64614.00 live=64599.00 candle=red ema7=64571.8 ema21=64571.7 BULL -> session=SELL
+[07:46:01] session=SELL but candle=red ema7=64571.8 ema21=64571.7 BULL -> no trade this tick
+[07:46:06] equity 971.66 (diff -0.28)
+[07:46:06] session=SELL but candle=red ema7=64575.5 ema21=64573.1 BULL -> no trade this tick
+[07:46:11] equity 971.72 (diff -0.22)
+[07:46:11] session=SELL but candle=red ema7=64574.3 ema21=64572.6 BULL -> no trade this tick
+[07:46:16] equity 971.66 (diff -0.28)
+[07:46:16] session=SELL but candle=red ema7=64574.8 ema21=64572.8 BULL -> no trade this tick
+[07:46:21] equity 971.58 (diff -0.36)
+[07:46:21] session=SELL but candle=green ema7=64579.8 ema21=64574.6 BULL -> no trade this tick
+[07:46:26] equity 971.58 (diff -0.36)
+[07:46:26] session=SELL but candle=green ema7=64579.3 ema21=64574.4 BULL -> no trade this tick
+[07:46:31] equity 971.44 (diff -0.50)
+[07:46:31] session=SELL but candle=green ema7=64586.8 ema21=64577.2 BULL -> no trade this tick
+[07:46:36] equity 971.50 (diff -0.44)
+[07:46:36] session=SELL but candle=green ema7=64584.3 ema21=64576.3 BULL -> no trade this tick
+[07:46:41] equity 971.42 (diff -0.52)
+[07:46:41] session=SELL but candle=green ema7=64588.5 ema21=64577.8 BULL -> no trade this tick
+[07:46:46] equity 971.26 (diff -0.68)
+[07:46:46] session=SELL but candle=green ema7=64595.5 ema21=64580.4 BULL -> no trade this tick
+[07:46:51] equity 971.18 (diff -0.76)
+[07:46:51] session=SELL but candle=green ema7=64598.5 ema21=64581.4 BULL -> no trade this tick
+[07:46:56] equity 971.26 (diff -0.68)
+[07:46:56] session=SELL but candle=green ema7=64596.0 ema21=64580.5 BULL -> no trade this tick
+[07:47:01] equity 971.32 (diff -0.62)
+[07:47:01] M1 10:47:00 open=64696.00 live=64689.00 candle=red ema7=64594.3 ema21=64579.9 BULL -> session=SELL
+[07:47:01] session=SELL but candle=red ema7=64594.3 ema21=64579.9 BULL -> no trade this tick
+[07:47:06] equity 971.18 (diff -0.76)
+[07:47:06] session=SELL but candle=green ema7=64599.8 ema21=64581.9 BULL -> no trade this tick
+[07:47:11] equity 971.18 (diff -0.76)
+[07:47:11] session=SELL but candle=green ema7=64599.3 ema21=64581.7 BULL -> no trade this tick
+[07:47:16] equity 971.18 (diff -0.76)
+[07:47:16] session=SELL but candle=green ema7=64599.3 ema21=64581.7 BULL -> no trade this tick
+[07:47:21] equity 971.18 (diff -0.76)
+[07:47:21] session=SELL but candle=green ema7=64598.5 ema21=64581.4 BULL -> no trade this tick
+[07:47:26] equity 971.26 (diff -0.68)
+[07:47:26] session=SELL but candle=red ema7=64596.0 ema21=64580.5 BULL -> no trade this tick
+[07:47:31] equity 971.24 (diff -0.70)
+[07:47:31] session=SELL but candle=green ema7=64596.8 ema21=64580.8 BULL -> no trade this tick
+[07:47:36] equity 971.34 (diff -0.60)
+[07:47:36] session=SELL but candle=red ema7=64593.0 ema21=64579.4 BULL -> no trade this tick
+[07:47:41] equity 971.18 (diff -0.76)
+[07:47:41] session=SELL but candle=green ema7=64600.5 ema21=64582.2 BULL -> no trade this tick
+[07:47:46] equity 971.18 (diff -0.76)
+[07:47:46] session=SELL but candle=green ema7=64598.5 ema21=64581.4 BULL -> no trade this tick
+[07:47:51] equity 971.18 (diff -0.76)
+[07:47:51] session=SELL but candle=green ema7=64597.3 ema21=64581.0 BULL -> no trade this tick
+[07:47:56] equity 971.18 (diff -0.76)
+[07:47:56] session=SELL but candle=green ema7=64598.0 ema21=64581.3 BULL -> no trade this tick
+[07:48:01] equity 971.18 (diff -0.76)
+[07:48:01] M1 10:48:00 open=64706.00 live=64706.00 candle=red ema7=64598.5 ema21=64581.4 BULL -> session=SELL
+[07:48:01] session=SELL but candle=red ema7=64598.5 ema21=64581.4 BULL -> no trade this tick
+[07:48:06] equity 971.18 (diff -0.76)
+[07:48:06] session=SELL but candle=red ema7=64598.0 ema21=64581.3 BULL -> no trade this tick
+[07:48:11] equity 971.18 (diff -0.76)
+[07:48:11] session=SELL but candle=red ema7=64598.0 ema21=64581.3 BULL -> no trade this tick
+[07:48:16] equity 971.18 (diff -0.76)
+[07:48:16] session=SELL but candle=red ema7=64597.3 ema21=64581.0 BULL -> no trade this tick
+[07:48:21] equity 971.18 (diff -0.76)
+[07:48:21] session=SELL but candle=green ema7=64599.3 ema21=64581.7 BULL -> no trade this tick
+[07:48:26] equity 971.18 (diff -0.76)
+[07:48:26] session=SELL but candle=green ema7=64599.8 ema21=64581.9 BULL -> no trade this tick
+[07:48:31] equity 971.18 (diff -0.76)
+[07:48:31] session=SELL but candle=green ema7=64601.0 ema21=64582.4 BULL -> no trade this tick
+[07:48:36] equity 971.34 (diff -0.60)
+[07:48:36] session=SELL but candle=red ema7=64593.5 ema21=64579.6 BULL -> no trade this tick
+[07:48:41] equity 971.26 (diff -0.68)
+[07:48:41] session=SELL but candle=red ema7=64596.0 ema21=64580.5 BULL -> no trade this tick
+[07:48:46] equity 971.18 (diff -0.76)
+[07:48:46] session=SELL but candle=red ema7=64598.5 ema21=64581.4 BULL -> no trade this tick
+[07:48:51] equity 971.18 (diff -0.76)
+[07:48:51] session=SELL but candle=green ema7=64599.8 ema21=64581.9 BULL -> no trade this tick
+[07:48:56] equity 971.18 (diff -0.76)
+[07:48:56] session=SELL but candle=green ema7=64601.0 ema21=64582.4 BULL -> no trade this tick
+[07:49:01] equity 971.18 (diff -0.76)
+[07:49:01] session=SELL but candle=green ema7=64601.0 ema21=64582.4 BULL -> no trade this tick
+[07:49:06] equity 971.10 (diff -0.84)
+[07:49:06] M1 10:49:00 open=64719.00 live=64724.00 candle=green ema7=64603.0 ema21=64583.1 BULL -> session=SELL
+[07:49:06] session=SELL but candle=green ema7=64603.0 ema21=64583.1 BULL -> no trade this tick
+[07:49:11] equity 971.18 (diff -0.76)
+[07:49:11] session=SELL but candle=red ema7=64601.0 ema21=64582.4 BULL -> no trade this tick
+[07:49:16] equity 971.18 (diff -0.76)
+[07:49:16] session=SELL but candle=red ema7=64601.0 ema21=64582.4 BULL -> no trade this tick
+[07:49:21] equity 971.18 (diff -0.76)
+[07:49:21] session=SELL but candle=red ema7=64601.0 ema21=64582.4 BULL -> no trade this tick
+[07:49:26] equity 971.18 (diff -0.76)
+[07:49:26] session=SELL but candle=red ema7=64600.5 ema21=64582.2 BULL -> no trade this tick
+[07:49:31] equity 971.26 (diff -0.68)
+[07:49:31] session=SELL but candle=red ema7=64596.0 ema21=64580.5 BULL -> no trade this tick
+[07:49:36] equity 971.26 (diff -0.68)
+[07:49:36] session=SELL but candle=red ema7=64595.5 ema21=64580.4 BULL -> no trade this tick
+[07:49:41] equity 971.34 (diff -0.60)
+[07:49:41] session=SELL but candle=red ema7=64591.0 ema21=64578.7 BULL -> no trade this tick
+[07:49:46] equity 971.42 (diff -0.52)
+[07:49:46] session=SELL but candle=red ema7=64588.0 ema21=64577.6 BULL -> no trade this tick
+[07:49:51] equity 971.32 (diff -0.62)
+[07:49:51] session=SELL but candle=red ema7=64594.3 ema21=64579.9 BULL -> no trade this tick
+[07:49:56] equity 971.32 (diff -0.62)
+[07:49:56] session=SELL but candle=red ema7=64594.3 ema21=64579.9 BULL -> no trade this tick
+[07:50:01] equity 971.24 (diff -0.70)
+[07:50:01] M1 10:50:00 open=64696.00 live=64699.00 candle=green ema7=64622.2 ema21=64582.3 BULL -> session=SELL
+[07:50:01] session=SELL but candle=green ema7=64622.2 ema21=64582.3 BULL -> no trade this tick
+[07:50:06] equity 971.26 (diff -0.68)
+[07:50:06] session=SELL but candle=red ema7=64621.4 ema21=64582.1 BULL -> no trade this tick
+[07:50:11] equity 971.26 (diff -0.68)
+[07:50:11] session=SELL but candle=red ema7=64620.2 ema21=64581.6 BULL -> no trade this tick
+[07:50:16] equity 971.26 (diff -0.68)
+[07:50:16] session=SELL but candle=red ema7=64620.2 ema21=64581.6 BULL -> no trade this tick
+[07:50:21] equity 971.26 (diff -0.68)
+[07:50:21] session=SELL but candle=red ema7=64620.2 ema21=64581.6 BULL -> no trade this tick
+[07:50:26] equity 971.34 (diff -0.60)
+[07:50:26] session=SELL but candle=red ema7=64618.9 ema21=64581.2 BULL -> no trade this tick
+[07:50:31] equity 971.18 (diff -0.76)
+[07:50:31] session=SELL but candle=green ema7=64623.4 ema21=64582.8 BULL -> no trade this tick
+[07:50:36] equity 971.18 (diff -0.76)
+[07:50:36] session=SELL but candle=green ema7=64623.4 ema21=64582.8 BULL -> no trade this tick
+[07:50:41] equity 971.18 (diff -0.76)
+[07:50:41] session=SELL but candle=green ema7=64623.4 ema21=64582.8 BULL -> no trade this tick
+[07:50:46] equity 971.18 (diff -0.76)
+[07:50:46] session=SELL but candle=green ema7=64623.9 ema21=64583.0 BULL -> no trade this tick
+[07:50:51] equity 971.18 (diff -0.76)
+[07:50:51] session=SELL but candle=green ema7=64625.2 ema21=64583.4 BULL -> no trade this tick
+[07:50:56] equity 971.26 (diff -0.68)
+[07:50:56] session=SELL but candle=red ema7=64621.4 ema21=64582.1 BULL -> no trade this tick
+[07:51:01] equity 971.34 (diff -0.60)
+[07:51:01] M1 10:51:00 open=64681.00 live=64684.00 candle=green ema7=64618.4 ema21=64581.0 BULL -> session=SELL
+[07:51:01] session=SELL but candle=green ema7=64618.4 ema21=64581.0 BULL -> no trade this tick
+[07:51:06] equity 971.34 (diff -0.60)
+[07:51:06] session=SELL but candle=red ema7=64617.7 ema21=64580.7 BULL -> no trade this tick
+[07:51:11] equity 971.34 (diff -0.60)
+[07:51:11] session=SELL but candle=red ema7=64617.7 ema21=64580.7 BULL -> no trade this tick
+[07:51:16] equity 971.26 (diff -0.68)
+[07:51:16] session=SELL but candle=green ema7=64620.2 ema21=64581.6 BULL -> no trade this tick
+[07:51:21] equity 971.18 (diff -0.76)
+[07:51:21] session=SELL but candle=green ema7=64623.4 ema21=64582.8 BULL -> no trade this tick
+[07:51:26] equity 971.24 (diff -0.70)
+[07:51:26] session=SELL but candle=green ema7=64622.2 ema21=64582.3 BULL -> no trade this tick
+[07:51:31] equity 971.26 (diff -0.68)
+[07:51:31] session=SELL but candle=green ema7=64621.4 ema21=64582.1 BULL -> no trade this tick
+[07:51:36] equity 971.18 (diff -0.76)
+[07:51:36] session=SELL but candle=green ema7=64624.7 ema21=64583.3 BULL -> no trade this tick
+[07:51:41] equity 971.18 (diff -0.76)
+[07:51:41] session=SELL but candle=green ema7=64623.9 ema21=64583.0 BULL -> no trade this tick
+[07:51:46] equity 971.34 (diff -0.60)
+[07:51:46] session=SELL but candle=green ema7=64618.9 ema21=64581.2 BULL -> no trade this tick
+[07:51:51] equity 971.34 (diff -0.60)
+[07:51:51] session=SELL but candle=green ema7=64618.4 ema21=64581.0 BULL -> no trade this tick
+[07:51:56] equity 971.34 (diff -0.60)
+[07:51:56] session=SELL but candle=green ema7=64618.4 ema21=64581.0 BULL -> no trade this tick
+[07:52:01] equity 971.34 (diff -0.60)
+[07:52:01] M1 10:52:00 open=64689.00 live=64684.00 candle=red ema7=64618.4 ema21=64581.0 BULL -> session=SELL
+[07:52:01] session=SELL but candle=red ema7=64618.4 ema21=64581.0 BULL -> no trade this tick
+[07:52:06] equity 971.34 (diff -0.60)
+[07:52:06] session=SELL but candle=red ema7=64618.4 ema21=64581.0 BULL -> no trade this tick
+[07:52:11] equity 971.34 (diff -0.60)
+[07:52:11] session=SELL but candle=red ema7=64618.4 ema21=64581.0 BULL -> no trade this tick
+[07:52:16] equity 971.34 (diff -0.60)
+[07:52:16] session=SELL but candle=red ema7=64618.4 ema21=64581.0 BULL -> no trade this tick
+[07:52:21] equity 971.34 (diff -0.60)
+[07:52:21] session=SELL but candle=red ema7=64618.4 ema21=64581.0 BULL -> no trade this tick
+[07:52:26] equity 971.34 (diff -0.60)
+[07:52:26] session=SELL but candle=red ema7=64616.4 ema21=64580.3 BULL -> no trade this tick
+[07:52:31] equity 971.34 (diff -0.60)
+[07:52:31] session=SELL but candle=red ema7=64615.2 ema21=64579.8 BULL -> no trade this tick
+[07:52:36] equity 971.34 (diff -0.60)
+[07:52:36] session=SELL but candle=red ema7=64615.2 ema21=64579.8 BULL -> no trade this tick
+[07:52:41] equity 971.34 (diff -0.60)
+[07:52:41] session=SELL but candle=red ema7=64616.4 ema21=64580.3 BULL -> no trade this tick
+[07:52:46] equity 971.34 (diff -0.60)
+[07:52:46] session=SELL but candle=red ema7=64617.2 ema21=64580.5 BULL -> no trade this tick
+[07:52:51] equity 971.34 (diff -0.60)
+[07:52:51] session=SELL but candle=red ema7=64618.4 ema21=64581.0 BULL -> no trade this tick
+[07:52:56] equity 971.26 (diff -0.68)
+[07:52:56] session=SELL but candle=green ema7=64621.4 ema21=64582.1 BULL -> no trade this tick
+[07:53:01] equity 971.26 (diff -0.68)
+[07:53:01] M1 10:53:00 open=64691.00 live=64691.00 candle=red ema7=64620.2 ema21=64581.6 BULL -> session=SELL
+[07:53:01] session=SELL but candle=red ema7=64620.2 ema21=64581.6 BULL -> no trade this tick
+[07:53:06] equity 971.32 (diff -0.62)
+[07:53:06] session=SELL but candle=red ema7=64619.7 ema21=64581.4 BULL -> no trade this tick
+[07:53:11] equity 971.42 (diff -0.52)
+[07:53:11] session=SELL but candle=red ema7=64613.9 ema21=64579.3 BULL -> no trade this tick
+[07:53:16] equity 971.40 (diff -0.54)
+[07:53:16] session=SELL but candle=red ema7=64614.7 ema21=64579.6 BULL -> no trade this tick
+[07:53:21] equity 971.34 (diff -0.60)
+[07:53:21] session=SELL but candle=red ema7=64615.9 ema21=64580.1 BULL -> no trade this tick
+[07:53:26] equity 971.34 (diff -0.60)
+[07:53:26] session=SELL but candle=red ema7=64616.4 ema21=64580.3 BULL -> no trade this tick
+[07:53:31] equity 971.32 (diff -0.62)
+[07:53:31] session=SELL but candle=red ema7=64619.7 ema21=64581.4 BULL -> no trade this tick
+[07:53:36] equity 971.34 (diff -0.60)
+[07:53:36] session=SELL but candle=red ema7=64617.7 ema21=64580.7 BULL -> no trade this tick
+[07:53:41] equity 971.26 (diff -0.68)
+[07:53:41] session=SELL but candle=green ema7=64621.4 ema21=64582.1 BULL -> no trade this tick
+[07:53:46] equity 971.32 (diff -0.62)
+[07:53:46] session=SELL but candle=red ema7=64619.7 ema21=64581.4 BULL -> no trade this tick
+[07:53:51] equity 971.26 (diff -0.68)
+[07:53:51] session=SELL but candle=red ema7=64620.2 ema21=64581.6 BULL -> no trade this tick
+[07:53:56] equity 971.26 (diff -0.68)
+[07:53:56] session=SELL but candle=red ema7=64620.2 ema21=64581.6 BULL -> no trade this tick
+[07:54:01] equity 971.34 (diff -0.60)
+[07:54:01] M1 10:54:00 open=64691.00 live=64686.00 candle=red ema7=64618.9 ema21=64581.2 BULL -> session=SELL
+[07:54:01] session=SELL but candle=red ema7=64618.9 ema21=64581.2 BULL -> no trade this tick
+[07:54:06] equity 971.32 (diff -0.62)
+[07:54:06] session=SELL but candle=red ema7=64619.7 ema21=64581.4 BULL -> no trade this tick
+[07:54:11] equity 971.18 (diff -0.76)
+[07:54:11] session=SELL but candle=green ema7=64623.4 ema21=64582.8 BULL -> no trade this tick
+[07:54:16] equity 971.18 (diff -0.76)
+[07:54:16] session=SELL but candle=green ema7=64623.4 ema21=64582.8 BULL -> no trade this tick
+[07:54:21] equity 971.26 (diff -0.68)
+[07:54:21] session=SELL but candle=green ema7=64621.4 ema21=64582.1 BULL -> no trade this tick
+[07:54:26] equity 971.18 (diff -0.76)
+[07:54:26] session=SELL but candle=green ema7=64622.7 ema21=64582.5 BULL -> no trade this tick
+[07:54:31] equity 971.26 (diff -0.68)
+[07:54:31] session=SELL but candle=green ema7=64620.9 ema21=64581.9 BULL -> no trade this tick
+[07:54:36] equity 971.18 (diff -0.76)
+[07:54:36] session=SELL but candle=green ema7=64623.4 ema21=64582.8 BULL -> no trade this tick
+[07:54:41] equity 971.18 (diff -0.76)
+[07:54:41] session=SELL but candle=green ema7=64622.7 ema21=64582.5 BULL -> no trade this tick
+[07:54:46] equity 971.34 (diff -0.60)
+[07:54:46] session=SELL but candle=red ema7=64618.9 ema21=64581.2 BULL -> no trade this tick
+[07:54:51] equity 971.18 (diff -0.76)
+[07:54:51] session=SELL but candle=green ema7=64623.4 ema21=64582.8 BULL -> no trade this tick
+[07:54:56] equity 971.18 (diff -0.76)
+[07:54:56] session=SELL but candle=green ema7=64623.4 ema21=64582.8 BULL -> no trade this tick
+[07:55:01] equity 971.18 (diff -0.76)
+[07:55:01] M1 10:55:00 open=64706.00 live=64711.00 candle=green ema7=64645.4 ema21=64598.8 BULL -> session=SELL
+[07:55:01] session=SELL but candle=green ema7=64645.4 ema21=64598.8 BULL -> no trade this tick
+[07:55:06] equity 971.10 (diff -0.84)
+[07:55:06] session=SELL but candle=green ema7=64648.6 ema21=64599.9 BULL -> no trade this tick
+[07:55:11] equity 971.10 (diff -0.84)
+[07:55:11] session=SELL but candle=green ema7=64649.1 ema21=64600.1 BULL -> no trade this tick
+[07:55:16] equity 971.18 (diff -0.76)
+[07:55:16] session=SELL but candle=green ema7=64646.6 ema21=64599.2 BULL -> no trade this tick
+[07:55:21] equity 971.10 (diff -0.84)
+[07:55:21] session=SELL but candle=green ema7=64649.1 ema21=64600.1 BULL -> no trade this tick
+[07:55:26] equity 971.06 (diff -0.88)
+[07:55:26] session=SELL but candle=green ema7=64651.1 ema21=64600.8 BULL -> no trade this tick
+[07:55:31] equity 971.06 (diff -0.88)
+[07:55:31] session=SELL but candle=green ema7=64650.4 ema21=64600.6 BULL -> no trade this tick
+[07:55:36] equity 971.10 (diff -0.84)
+[07:55:36] session=SELL but candle=green ema7=64649.9 ema21=64600.4 BULL -> no trade this tick
+[07:55:41] equity 971.10 (diff -0.84)
+[07:55:41] session=SELL but candle=green ema7=64649.1 ema21=64600.1 BULL -> no trade this tick
+[07:55:46] equity 971.10 (diff -0.84)
+[07:55:46] session=SELL but candle=green ema7=64649.9 ema21=64600.4 BULL -> no trade this tick
+[07:55:51] equity 971.10 (diff -0.84)
+[07:55:51] session=SELL but candle=green ema7=64649.9 ema21=64600.4 BULL -> no trade this tick
+[07:55:56] equity 971.10 (diff -0.84)
+[07:55:56] session=SELL but candle=green ema7=64648.6 ema21=64599.9 BULL -> no trade this tick
+[07:56:01] equity 971.10 (diff -0.84)
+[07:56:01] session=SELL but candle=green ema7=64649.9 ema21=64600.4 BULL -> no trade this tick
+[07:56:06] equity 971.10 (diff -0.84)
+[07:56:06] M1 10:56:00 open=64726.00 live=64729.00 candle=green ema7=64649.9 ema21=64600.4 BULL -> session=SELL
+[07:56:06] session=SELL but candle=green ema7=64649.9 ema21=64600.4 BULL -> no trade this tick
+[07:56:11] equity 971.10 (diff -0.84)
+[07:56:11] session=SELL but candle=red ema7=64649.1 ema21=64600.1 BULL -> no trade this tick
+[07:56:16] equity 971.10 (diff -0.84)
+[07:56:16] session=SELL but candle=red ema7=64649.1 ema21=64600.1 BULL -> no trade this tick
+[07:56:21] equity 971.10 (diff -0.84)
+[07:56:21] session=SELL but candle=green ema7=64649.9 ema21=64600.4 BULL -> no trade this tick
+[07:56:26] equity 971.10 (diff -0.84)
+[07:56:26] session=SELL but candle=red ema7=64649.1 ema21=64600.1 BULL -> no trade this tick
+[07:56:31] equity 971.16 (diff -0.78)
+[07:56:31] session=SELL but candle=red ema7=64647.4 ema21=64599.5 BULL -> no trade this tick
+[07:56:36] equity 971.10 (diff -0.84)
+[07:56:36] session=SELL but candle=red ema7=64648.6 ema21=64599.9 BULL -> no trade this tick
+[07:56:41] equity 971.18 (diff -0.76)
+[07:56:41] session=SELL but candle=red ema7=64646.1 ema21=64599.0 BULL -> no trade this tick
+[07:56:46] equity 971.26 (diff -0.68)
+[07:56:46] session=SELL but candle=red ema7=64640.4 ema21=64596.9 BULL -> no trade this tick
+[07:56:51] equity 971.34 (diff -0.60)
+[07:56:51] session=SELL but candle=red ema7=64639.1 ema21=64596.5 BULL -> no trade this tick
+[07:56:56] equity 971.26 (diff -0.68)
+[07:56:56] session=SELL but candle=red ema7=64640.4 ema21=64596.9 BULL -> no trade this tick
+[07:57:01] equity 971.18 (diff -0.76)
+[07:57:01] M1 10:57:00 open=64696.00 live=64701.00 candle=green ema7=64642.9 ema21=64597.8 BULL -> session=SELL
+[07:57:01] session=SELL but candle=green ema7=64642.9 ema21=64597.8 BULL -> no trade this tick
+[07:57:06] equity 971.18 (diff -0.76)
+[07:57:06] session=SELL but candle=green ema7=64645.4 ema21=64598.8 BULL -> no trade this tick
+[07:57:11] equity 971.10 (diff -0.84)
+[07:57:11] session=SELL but candle=green ema7=64648.6 ema21=64599.9 BULL -> no trade this tick
+[07:57:16] equity 971.06 (diff -0.88)
+[07:57:16] session=SELL but candle=green ema7=64650.4 ema21=64600.6 BULL -> no trade this tick
+[07:57:21] equity 970.94 (diff -1.00)
+[07:57:21] STOP: equity diff -1.00 <= -1.00. Closing all positions.
+[07:57:21] closed 948986776 (sell) @ 64762.00
+[07:57:21] closed 948986790 (sell) @ 64762.00
+[07:57:21] closed 948986827 (sell) @ 64762.00
+[07:57:22] closed 948986863 (sell) @ 64762.00
+[07:57:22] closed 948988098 (sell) @ 64762.00
+[07:57:22] closed 948988424 (sell) @ 64759.00
+[07:57:22] closed 948988794 (sell) @ 64759.00
+[07:57:22] closed 948988969 (sell) @ 64762.00
+[07:57:22] closed 8/8 positions
+[07:57:22] --- Session 29 finished: LOSS ---

@@ -1,0 +1,24 @@
+Script       : trade_sell_green
+Symbol       : JP225Cash
+Lot          : 0.1
+Session start: 2026-09-02 17:09:07
+Session end  : 2026-09-02 17:11:57
+Duration     : 170.0s
+Outcome      : TIME
+----------------------------------------------------------------------
+[17:09:07] MT5 initialized: (500, 6140, '21 Aug 2026')
+[17:09:07] Account 334072459 on XMGlobal-MT5 9, equity start = 991.37 USD
+[17:09:07] Trading JP225Cash @ 64126.00/64134.00, lot 0.1
+[17:09:07] Running (sell on green M1 candles at :57, stop if equity <= 990.37 or >= 996.37 from start).
+[17:09:07] equity 991.37 (diff +0.00)
+[17:09:57] equity 991.37 (diff +0.00)
+[17:09:57] M1 20:09:00 open=64118.00 live=64126.00 bid=64126.00 ask=64134.00 candle=green -> open SELL
+[17:09:57] SELL opened. ticket=948081065, price=64128.0
+[17:10:57] equity 991.38 (diff +0.01)
+[17:10:57] M1 20:10:00 open=64126.00 live=64111.00 bid=64111.00 ask=64119.00 candle=red -> skip (not green)
+[17:10:57] candle is red -> skipped (no trade this minute)
+[17:11:57] equity 991.38 (diff +0.01)
+[17:11:57] TIME STOP: reached 2 minutes. Closing all positions and exiting.
+[17:11:57] closed 948081065 (sell) @ 64116.00
+[17:11:57] closed 1/1 positions
+[17:11:57] Stopped.

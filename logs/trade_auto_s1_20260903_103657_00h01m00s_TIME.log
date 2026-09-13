@@ -1,0 +1,43 @@
+Script       : trade_auto
+Session      : 1
+Direction    : BUY
+Symbol       : JP225Cash
+Lot          : 0.1
+Session start: 2026-09-03 10:36:57
+Session end  : 2026-09-03 10:37:57
+Duration     : 60.4s
+Outcome      : TIME
+----------------------------------------------------------------------
+[10:36:57] === Session 1: choosing direction from M5 trend ===
+[10:36:57] Session 1 direction = BUY (EMA1 > EMA5). Equity start = 969.94
+[10:36:57] equity 969.94 (diff +0.00)
+[10:36:57] M1 13:36:00 open=64446.00 live=64466.00 candle=green ema1=64466.0 ema5=64444.9 BULL -> session=BUY
+[10:36:57] BUY opened. ticket=949091523, price=64474.0
+[10:37:02] equity 969.93 (diff -0.01)
+[10:37:02] M1 13:37:00 open=64461.00 live=64458.00 candle=red ema1=64458.0 ema5=64442.2 BULL -> session=BUY
+[10:37:02] session=BUY but candle=red ema1=64458.0 ema5=64442.2 BULL -> no trade this tick
+[10:37:07] equity 969.93 (diff -0.01)
+[10:37:07] session=BUY but candle=red ema1=64461.0 ema5=64443.2 BULL -> no trade this tick
+[10:37:12] equity 969.93 (diff -0.01)
+[10:37:12] session=BUY but candle=red ema1=64461.0 ema5=64443.2 BULL -> no trade this tick
+[10:37:17] equity 969.93 (diff -0.01)
+[10:37:17] session=BUY but candle=red ema1=64461.0 ema5=64443.2 BULL -> no trade this tick
+[10:37:22] equity 969.93 (diff -0.01)
+[10:37:22] session=BUY but candle=red ema1=64456.0 ema5=64441.6 BULL -> no trade this tick
+[10:37:27] equity 969.93 (diff -0.01)
+[10:37:27] session=BUY but candle=red ema1=64453.0 ema5=64440.6 BULL -> no trade this tick
+[10:37:32] equity 969.93 (diff -0.01)
+[10:37:32] session=BUY but candle=red ema1=64456.0 ema5=64441.6 BULL -> no trade this tick
+[10:37:37] equity 969.92 (diff -0.02)
+[10:37:37] session=BUY but candle=red ema1=64448.0 ema5=64438.9 BULL -> no trade this tick
+[10:37:42] equity 969.92 (diff -0.02)
+[10:37:42] session=BUY but candle=red ema1=64446.0 ema5=64438.2 BULL -> no trade this tick
+[10:37:47] equity 969.92 (diff -0.02)
+[10:37:47] session=BUY but candle=red ema1=64446.0 ema5=64438.2 BULL -> no trade this tick
+[10:37:52] equity 969.92 (diff -0.02)
+[10:37:52] session=BUY but candle=red ema1=64448.0 ema5=64438.9 BULL -> no trade this tick
+[10:37:57] equity 969.93 (diff -0.01)
+[10:37:57] TIME STOP: reached 1 minutes. Closing all positions.
+[10:37:57] closed 949091523 (buy) @ 64451.00
+[10:37:57] closed 1/1 positions
+[10:37:57] --- Session 1 finished: TIME ---

@@ -1,0 +1,44 @@
+Script       : trade_auto
+Session      : 1
+Direction    : BUY
+Symbol       : JP225Cash
+Lot          : 0.1
+Session start: 2026-09-02 22:33:44
+Session end  : 2026-09-02 22:34:45
+Duration     : 60.8s
+Outcome      : TIME
+----------------------------------------------------------------------
+[22:33:44] === Session 1: choosing direction from M5 trend ===
+[22:33:44] Session 1 direction = BUY (EMA7 > EMA21). Equity start = 988.67
+[22:33:44] equity 988.67 (diff +0.00)
+[22:33:44] M1 01:33:00 open=64549.00 live=64544.00 candle=red ema7=64449.2 ema21=64294.5 BULL -> session=BUY
+[22:33:44] session=BUY but candle=red ema7=64449.2 ema21=64294.5 BULL -> no trade this tick
+[22:33:49] equity 988.67 (diff +0.00)
+[22:33:49] session=BUY but candle=red ema7=64447.9 ema21=64294.0 BULL -> no trade this tick
+[22:33:54] equity 988.67 (diff +0.00)
+[22:33:54] session=BUY but candle=red ema7=64449.7 ema21=64294.7 BULL -> no trade this tick
+[22:33:59] equity 988.67 (diff +0.00)
+[22:33:59] M1 01:34:00 open=64549.00 live=64549.00 candle=red ema7=64450.4 ema21=64294.9 BULL -> session=BUY
+[22:33:59] session=BUY but candle=red ema7=64450.4 ema21=64294.9 BULL -> no trade this tick
+[22:34:04] equity 988.67 (diff +0.00)
+[22:34:04] BUY opened. ticket=948585299, price=64559.0
+[22:34:09] equity 988.65 (diff -0.02)
+[22:34:09] session=BUY but candle=red ema7=64445.9 ema21=64293.3 BULL -> no trade this tick
+[22:34:14] equity 988.65 (diff -0.02)
+[22:34:14] session=BUY but candle=red ema7=64445.9 ema21=64293.3 BULL -> no trade this tick
+[22:34:19] equity 988.66 (diff -0.01)
+[22:34:19] session=BUY but candle=red ema7=64447.2 ema21=64293.8 BULL -> no trade this tick
+[22:34:24] equity 988.66 (diff -0.01)
+[22:34:24] session=BUY but candle=red ema7=64449.2 ema21=64294.5 BULL -> no trade this tick
+[22:34:29] equity 988.66 (diff -0.01)
+[22:34:29] session=BUY but candle=red ema7=64449.2 ema21=64294.5 BULL -> no trade this tick
+[22:34:34] equity 988.66 (diff -0.01)
+[22:34:34] session=BUY but candle=red ema7=64450.4 ema21=64294.9 BULL -> no trade this tick
+[22:34:39] equity 988.66 (diff -0.01)
+[22:34:39] BUY opened. ticket=948585834, price=64559.0
+[22:34:44] equity 988.67 (diff +0.00)
+[22:34:44] TIME STOP: reached 1 minutes. Closing all positions.
+[22:34:44] closed 948585299 (buy) @ 64559.00
+[22:34:45] closed 948585834 (buy) @ 64559.00
+[22:34:45] closed 2/2 positions
+[22:34:45] --- Session 1 finished: TIME ---

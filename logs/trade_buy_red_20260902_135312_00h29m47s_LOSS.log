@@ -1,0 +1,123 @@
+Script       : trade_buy_red
+Symbol       : JP225Cash
+Lot          : 0.1
+Session start: 2026-09-02 13:53:12
+Session end  : 2026-09-02 14:23:00
+Duration     : 1787.3s
+Outcome      : LOSS
+----------------------------------------------------------------------
+[13:53:12] MT5 initialized: (500, 6140, '21 Aug 2026')
+[13:53:12] Account 334072459 on XMGlobal-MT5 9, equity start = 991.80 USD
+[13:53:12] Trading JP225Cash @ 64462.00/64470.00, lot 0.1
+[13:53:12] Running (buy on red M1 candles at :57, stop if equity <= 990.80 or >= 996.80 from start).
+[13:53:12] equity 991.80 (diff +0.00)
+[13:53:57] equity 991.80 (diff +0.00)
+[13:53:57] M1 16:53:00 open=64462.00 live=64455.00 bid=64455.00 ask=64463.00 candle=red -> open BUY
+[13:53:57] BUY opened. ticket=947872433, price=64463.0
+[13:54:57] equity 991.77 (diff +-0.03)
+[13:54:57] M1 16:54:00 open=64452.00 live=64418.00 bid=64418.00 ask=64426.00 candle=red -> open BUY
+[13:54:57] BUY opened. ticket=947873605, price=64428.0
+[13:55:57] equity 991.80 (diff +0.00)
+[13:55:57] M1 16:55:00 open=64418.00 live=64448.00 bid=64448.00 ask=64456.00 candle=green -> skip (not red)
+[13:55:57] candle is green -> skipped (no trade this minute)
+[13:56:57] equity 991.84 (diff +0.04)
+[13:56:57] M1 16:56:00 open=64448.00 live=64473.00 bid=64473.00 ask=64481.00 candle=green -> skip (not red)
+[13:56:57] candle is green -> skipped (no trade this minute)
+[13:57:57] equity 991.84 (diff +0.04)
+[13:57:57] M1 16:57:00 open=64480.00 live=64473.00 bid=64473.00 ask=64481.00 candle=red -> open BUY
+[13:57:57] BUY opened. ticket=947876386, price=64481.0
+[13:58:57] equity 991.83 (diff +0.03)
+[13:58:57] M1 16:58:00 open=64480.00 live=64475.00 bid=64475.00 ask=64483.00 candle=red -> open BUY
+[13:58:57] BUY opened. ticket=947876942, price=64483.0
+[13:59:57] equity 991.82 (diff +0.02)
+[13:59:57] M1 16:59:00 open=64473.00 live=64471.00 bid=64471.00 ask=64479.00 candle=red -> open BUY
+[13:59:57] BUY opened. ticket=947877899, price=64479.0
+[14:00:57] equity 991.81 (diff +0.01)
+[14:00:57] M1 17:00:00 open=64466.00 live=64473.00 bid=64473.00 ask=64481.00 candle=green -> skip (not red)
+[14:00:57] candle is green -> skipped (no trade this minute)
+[14:01:57] equity 991.70 (diff +-0.10)
+[14:01:57] M1 17:01:00 open=64471.00 live=64433.00 bid=64433.00 ask=64441.00 candle=red -> open BUY
+[14:01:57] BUY opened. ticket=947879572, price=64441.0
+[14:02:57] equity 991.63 (diff +-0.17)
+[14:02:57] M1 17:02:00 open=64438.00 live=64423.00 bid=64423.00 ask=64431.00 candle=red -> open BUY
+[14:02:57] BUY opened. ticket=947880192, price=64431.0
+[14:03:57] equity 991.49 (diff +-0.31)
+[14:03:57] M1 17:03:00 open=64428.00 live=64393.00 bid=64393.00 ask=64401.00 candle=red -> open BUY
+[14:03:57] BUY opened. ticket=947880960, price=64401.0
+[14:04:57] equity 991.50 (diff +-0.30)
+[14:04:57] M1 17:04:00 open=64391.00 live=64396.00 bid=64396.00 ask=64404.00 candle=green -> skip (not red)
+[14:04:57] candle is green -> skipped (no trade this minute)
+[14:05:57] equity 991.35 (diff +-0.45)
+[14:05:57] M1 17:05:00 open=64393.00 live=64366.00 bid=64366.00 ask=64374.00 candle=red -> open BUY
+[14:05:57] BUY opened. ticket=947883679, price=64374.0
+[14:06:57] equity 991.37 (diff +-0.43)
+[14:06:57] M1 17:06:00 open=64366.00 live=64368.00 bid=64368.00 ask=64376.00 candle=green -> skip (not red)
+[14:06:57] candle is green -> skipped (no trade this minute)
+[14:07:57] equity 991.29 (diff +-0.51)
+[14:07:57] M1 17:07:00 open=64373.00 live=64351.00 bid=64351.00 ask=64359.00 candle=red -> open BUY
+[14:07:57] BUY opened. ticket=947886305, price=64356.0
+[14:08:57] equity 991.52 (diff +-0.28)
+[14:08:57] M1 17:08:00 open=64353.00 live=64393.00 bid=64393.00 ask=64401.00 candle=green -> skip (not red)
+[14:08:57] candle is green -> skipped (no trade this minute)
+[14:09:57] equity 991.52 (diff +-0.28)
+[14:09:57] M1 17:09:00 open=64396.00 live=64393.00 bid=64393.00 ask=64401.00 candle=red -> open BUY
+[14:09:57] BUY opened. ticket=947888171, price=64401.0
+[14:10:57] equity 991.27 (diff +-0.53)
+[14:10:57] M1 17:10:00 open=64398.00 live=64356.00 bid=64356.00 ask=64364.00 candle=red -> open BUY
+[14:10:57] BUY opened. ticket=947889306, price=64364.0
+[14:11:57] equity 991.26 (diff +-0.54)
+[14:11:57] M1 17:11:00 open=64363.00 live=64356.00 bid=64356.00 ask=64364.00 candle=red -> open BUY
+[14:11:57] BUY opened. ticket=947890273, price=64364.0
+[14:12:57] equity 991.50 (diff +-0.30)
+[14:12:57] M1 17:12:00 open=64353.00 live=64386.00 bid=64386.00 ask=64394.00 candle=green -> skip (not red)
+[14:12:57] candle is green -> skipped (no trade this minute)
+[14:13:57] equity 991.76 (diff +-0.04)
+[14:13:57] M1 17:13:00 open=64386.00 live=64413.00 bid=64413.00 ask=64421.00 candle=green -> skip (not red)
+[14:13:57] candle is green -> skipped (no trade this minute)
+[14:14:57] equity 991.40 (diff +-0.40)
+[14:14:57] M1 17:14:00 open=64416.00 live=64373.00 bid=64373.00 ask=64381.00 candle=red -> open BUY
+[14:14:57] BUY opened. ticket=947895452, price=64381.0
+[14:15:57] equity 991.56 (diff +-0.24)
+[14:15:57] M1 17:15:00 open=64373.00 live=64393.00 bid=64393.00 ask=64401.00 candle=green -> skip (not red)
+[14:15:57] candle is green -> skipped (no trade this minute)
+[14:16:57] equity 991.50 (diff +-0.30)
+[14:16:57] M1 17:16:00 open=64386.00 live=64381.00 bid=64381.00 ask=64389.00 candle=red -> open BUY
+[14:16:57] BUY opened. ticket=947898125, price=64389.0
+[14:17:57] equity 991.28 (diff +-0.52)
+[14:17:57] M1 17:17:00 open=64368.00 live=64363.00 bid=64363.00 ask=64371.00 candle=red -> open BUY
+[14:17:57] BUY opened. ticket=947899143, price=64371.0
+[14:18:57] equity 991.17 (diff +-0.63)
+[14:18:57] M1 17:18:00 open=64363.00 live=64351.00 bid=64351.00 ask=64359.00 candle=red -> open BUY
+[14:18:57] BUY opened. ticket=947900308, price=64361.0
+[14:19:57] equity 991.02 (diff +-0.78)
+[14:19:57] M1 17:19:00 open=64346.00 live=64338.00 bid=64338.00 ask=64346.00 candle=red -> open BUY
+[14:19:57] BUY opened. ticket=947901294, price=64346.0
+[14:20:57] equity 991.18 (diff +-0.62)
+[14:20:57] M1 17:20:00 open=64341.00 live=64353.00 bid=64353.00 ask=64361.00 candle=green -> skip (not red)
+[14:20:57] candle is green -> skipped (no trade this minute)
+[14:21:57] equity 991.01 (diff +-0.79)
+[14:21:57] M1 17:21:00 open=64348.00 live=64338.00 bid=64338.00 ask=64346.00 candle=red -> open BUY
+[14:21:57] BUY opened. ticket=947902769, price=64349.0
+[14:22:57] equity 990.56 (diff +-1.24)
+[14:22:57] STOP: equity diff -1.24 <= -1.00. Closing all positions and exiting.
+[14:22:57] closed 947872433 (buy) @ 64298.00
+[14:22:57] closed 947873605 (buy) @ 64298.00
+[14:22:57] closed 947876386 (buy) @ 64298.00
+[14:22:57] closed 947876942 (buy) @ 64298.00
+[14:22:57] closed 947877899 (buy) @ 64298.00
+[14:22:57] closed 947879572 (buy) @ 64298.00
+[14:22:58] closed 947880192 (buy) @ 64298.00
+[14:22:58] closed 947880960 (buy) @ 64298.00
+[14:22:58] closed 947883679 (buy) @ 64298.00
+[14:22:58] closed 947886305 (buy) @ 64298.00
+[14:22:58] closed 947888171 (buy) @ 64298.00
+[14:22:58] closed 947889306 (buy) @ 64298.00
+[14:22:59] closed 947890273 (buy) @ 64298.00
+[14:22:59] closed 947895452 (buy) @ 64298.00
+[14:22:59] closed 947898125 (buy) @ 64298.00
+[14:22:59] closed 947899143 (buy) @ 64296.00
+[14:22:59] closed 947900308 (buy) @ 64296.00
+[14:22:59] closed 947901294 (buy) @ 64296.00
+[14:23:00] closed 947902769 (buy) @ 64298.00
+[14:23:00] closed 19/19 positions
+[14:23:00] Stopped.
